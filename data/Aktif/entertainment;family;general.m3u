@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TshwaneTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment;Family;General",Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8

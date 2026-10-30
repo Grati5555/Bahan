@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg", DensLifeandStyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg", DensFood Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", DensShowBiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg", DensKnowledge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg", Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", My Cinema Europe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg", Crema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg", Qwest TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/41a80ce3-5acf-4715-a6cf-4ab2b452288b/stream.m3u8?app_type=web&userid=lite&chname=Qwest_TV
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg", Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/f7d2390e-69f6-4919-b467-579df454df94/stream.m3u8?app_type=web&userid=lite&chname=Stingray_Classica
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg", Dance TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/f6d75069-1137-446f-9062-2f010e794b6c/stream.m3u8?app_type=web&userid=lite&chname=Dance_TV
+#EXTINF:-1 group-title="🔓 Dens TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg", WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/4797e82c-d14e-453e-b8d6-3e2427ad09a9/stream.m3u8?app_type=web&userid=lite&chname=WION

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyTime.ru@SD" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids;Music",Baby Time (576p)
+http://178.134.1.158:8081/babytime/index.m3u8

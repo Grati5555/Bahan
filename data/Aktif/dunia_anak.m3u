@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" group-title="DUNIA ANAK", BABY SHARK TV
+http://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",Zoomoo
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8

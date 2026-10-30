@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="FILM" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
+http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="FILM" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", STAR MOVIES
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="FILM" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", STAR MOVIES SELECT
+http://tv.cloudcdn.me/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:03:13:DE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuiVcyh.png" group-title="FILM" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", CHC ACTION MOVIES
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwBldBE.png" group-title="FILM" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", CHC HOME THEATER
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/52.m3u8
+#EXTINF:-1 tvg-id="HBO Hits" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/54.m3u8
+#EXTINF:-1 tvg-id="HBO Family" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/53.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/55.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/48.m3u8
+#EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png",HITS
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 group-title="FILM" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png",Miramax Film
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/960px-MotoGP_logo_%282024%29.svg.png" group-title="Sky & Astro", SKY Sport MotoGP
+http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19133/index.m3u8
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb96Mz4qHlLlMWPbwVeF0d7JFRLncK7UaUDA&s" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Bundesliga
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
+#EXTINF:-1 tvg-name="Astro" tvg-logo="https://i.imgur.com/gjTNt6Y.jpeg" tvg-id="astro.my" group-title=" Sky & Astro",Astro Cricket
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Tennis
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sport Moto GP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8

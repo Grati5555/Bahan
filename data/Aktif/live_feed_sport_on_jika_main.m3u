@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://img.freepik.com/free-vector/3d-style-live-stream-web-button-design_1017-59933.jpg?semt=ais_hybrid&w=740&q=80" group-title="LIVE FEED SPORT (ON JIKA MAIN)",SELCUK FEED 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-id="bein3" tvg-name="BeIN Sports 3" tvg-logo="https://img.freepik.com/free-vector/3d-style-live-stream-web-button-design_1017-59933.jpg?semt=ais_hybrid&w=740&q=80" group-title="LIVE FEED SPORT (ON JIKA MAIN)",SELCUK FEED 2
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-id="bein5" tvg-name="BeIN Sports 5" tvg-logo="https://img.freepik.com/free-vector/3d-style-live-stream-web-button-design_1017-59933.jpg?semt=ais_hybrid&w=740&q=80" group-title="LIVE FEED SPORT (ON JIKA MAIN)",SELCUK FEED 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="LIVE FEED SPORT (ON JIKA MAIN)",BLV SAMURAI
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.xoilaczzggz.tv/images/logo-xlz.png" group-title="LIVE FEED SPORT (ON JIKA MAIN)",FOOTBALL TV 1 BRADY
+https://live2.domainkqt.cc/live/channel18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.xoilaczzggz.tv/images/logo-xlz.png" group-title="LIVE FEED SPORT (ON JIKA MAIN)",FOOTBALL TV 2 FELIX
+https://live2.domainkqt.cc/live/channel19.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.xoilaczzggz.tv/images/logo-xlz.png" group-title="LIVE FEED SPORT (ON JIKA MAIN)",FOOTBALL TV 3 NICK
+https://live2.domainkqt.cc/live/channel1.m3u8

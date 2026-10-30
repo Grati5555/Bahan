@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="History-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="Knowledge and Documentary",HISTORY US
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+#EXTINF:-1 tvg-id="tv5monde Style" tvg-name="tv5monde Style" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCwY6zBSiMC5qVKl49fgTsGPaa26_D6h3movHHcSo3Q&s=10" group-title="Knowledge and Documentary",tv5monde STYLE
+http://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="" group-title="Knowledge and Documentary",Nat Geo Sharks
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge and Documentary",Dens Learning & Knowledge (DensTV)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
+#EXTINF:-1 tvg-id="HGTVAsia.us@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge and Documentary",HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids Channel",Duck tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6469.1480802065.png" group-title="Kids Channel",ABC Cartoons
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids Channel",ABC Kids
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ABCForKids_%281998-2009%29.png/revision/latest?cb=20211022234203" group-title="Kids Channel",ABC Kids All Aussie
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
+#EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/Logo-URL-Wide-1020x574_BigKids_new.png" group-title="Kids Channel",ABC Big Kids All Aussie
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="Kids Channel",ABC Kids Play School
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="Kids Channel",ABC Kids Play Music
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
+#EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/4X/f/2/6/f2615540d13e556f165ccac0cedca716d900c481.png" group-title="Kids Channel",ABC Big Kids
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd

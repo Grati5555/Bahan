@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",Daai TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/garudatv.jpg",Garuda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="TV DAERAH",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScF6WtPeFsrYQrpOYAPnMt_Mttr0RFchhlh4RwLjq8fA&s=10" group-title="TV DAERAH",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="TV DAERAH",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8

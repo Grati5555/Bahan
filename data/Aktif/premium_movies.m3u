@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="Premium Movies",Miramax Film
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.99THytQHmeLB8wVjHmpt8AAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", Movies Now HD
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.CX3qZjx5VWWAZSrPwmEcFwAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.5Y_MlJiwfqD7ZwI3JEZD8gAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MN+ HD
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.7bnanpw5pwiD9QHrtALJYgAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP._2P17CH7utW-IubLX2u_YgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="Premium Movies", BBC First
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
