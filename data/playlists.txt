@@ -1,4 +1,23 @@
-# Konfigurasi bundel file m3u terpisah
+# Konfigurasi "bundle" - membagi hasil merge jadi beberapa file .m3u
+# terpisah, bukan cuma satu master.m3u besar.
+#
 # Format: nama_bundle=entry1,entry2,...
-#event=01_Thoha-Ajil,02_koko
-#ff=vod,Film
+# Setiap "entry" salah satu dari:
+#   - "*" - SEMUA kategori otomatis, termasuk yang baru ditambahkan
+#     nanti (link baru di sources.txt atau file .m3u yang di-upload) -
+#     tidak perlu edit file ini lagi kalau tambah sumber baru
+#   - stem file (nama file di data/categories/ tanpa .m3u) - ambil
+#     SEMUA channel dari file itu
+#   - group:<prefix> - ambil channel APAPUN (dari file manapun) yang
+#     group-title-nya persis <prefix> atau diawali "<prefix>;"
+#
+# Setiap bundle akan menghasilkan file terpisah di:
+#   data/master/<nama_bundle>.m3u
+#   docs/<nama_bundle>.m3u (kalau publish ke GitHub Pages aktif)
+
+# Semua channel, otomatis ikut sumber baru kapan pun ditambahkan
+all=*
+# Semua channel yang ter-tag "Indonesia" dari sumber manapun
+master=group:LIVE ESPORTS,group:AFC CHAMPIONS LEAGUE ELITE,group:CARABAO CUP EFL 2026,group:PIALA JERMAN (DFB POKAL),group:UEFA EUROPA LEAGUE,group:UEFA EUROPA CONFERENCE,group:UEFA NATIONS LEAGUE,group:VOLLEYBALL TV,group:BULUTANGKIS TV,group:CHAMPIONS LEAGUE,group:PREMIER LEAGUE,group:SERIE A LEAGUE,group:BUNDESLIGA,group:LA LIGA,group:FEED VISION+,group:BRI LIGA 1 & LIGA 2 PEGADAIAN,group:LOKAL,group:BERITA,group:HIBURAN,group:DUNIA HEWAN,group:DUNIA ANAK,group:GAYA HIDUP,group:TV DAERAH,group:BERITA LUAR,group:LIVE FEED SPORT (ON JIKA MAIN),group:OLAHRAGA LOKAL,group:WORLD SPORT FHD,group:SPORTS INDO,group:SPORTS LUAR,group:SPORTS FIGHT,group:OLAHRAGA AMERIKA,group:HORROR & SCI-FI,group:ARENA SPORT (NEW),group:Local Channels,group:ALL SPORTS
+Event=02_koko
+fff=vod,Film
