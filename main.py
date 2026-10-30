@@ -41,6 +41,7 @@ def main():
     os.makedirs(master_dir, exist_ok=True)
     os.makedirs(categories_dir, exist_ok=True)
     
+    # 1. Pertahankan proses utama (sources & playlists)
     sources = read_txt(os.path.join(data_dir, 'sources.txt')) + read_txt(os.path.join(data_dir, 'playlists.txt'))
     print(f"Ditemukan {len(sources)} tautan sumber.")
     
@@ -63,29 +64,38 @@ def main():
         except Exception as e:
             print(f"Gagal mengambil {url}: {e}")
             
-    # Simpan master
+    # Simpan hasil master yang sudah ada
     for filename in ['all.m3u', 'master.m3u']:
         out_path = os.path.join(master_dir, filename)
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(raw_content)
-    print("File master berhasil diperbarui.")
+    print("File master berhasil dipertahankan dan diperbarui.")
 
-    # Pecah otomatis ke folder categories/ berdasarkan nama file m3u
-    for cat_file in os.listdir(categories_dir):
-        if cat_file.endswith('.m3u'):
-            cat_name = os.path.splitext(cat_file)[0].lower()
-            cat_content = "#EXTM3U\n"
-            match_count = 0
-            
-            for ch in all_channels:
-                # Cocokkan berdasarkan nama file kategori dengan metadata channel (nama channel atau group-title)
-                if cat_name in ch['meta'].lower():
-                    cat_content += f"{ch['meta']}\n{ch['url']}\n"
-                    match_count += 1
-            
-            with open(os.path.join(categories_dir, cat_file), 'w', encoding='utf-8') as f:
-                f.write(cat_content)
-            print(f"Kategori {cat_file}: ditemukan {match_count} channel.")
+    # 2. Tambahkan hasil M3U perkategori secara otomatis
+    # Daftar kategori default yang sering dicari (bisa Anda tambah atau sesuaikan)
+    default_categories = [
+        "rcti", "sctv", "indosiar", "antv", "transtv", "trans7", 
+        "metrotv", "tvri", "kompastv", "gtv", "inews", "rtv"
+    ]
+    
+    # Ambil juga file kategori tambahan jika Anda sudah membuat filenya di folder categories/
+    existing_files = [os.path.splitext(f)[0].lower() for f in os.listdir(categories_dir) if f.endswith('.m3u')]
+    all_categories = list(set(default_categories + existing_files))
+
+    for cat_name in all_categories:
+        cat_content = "#EXTM3U\n"
+        match_count = 0
+        
+        for ch in all_channels:
+            if cat_name in ch['meta'].lower():
+                cat_content += f"{ch['meta']}\n{ch['url']}\n"
+                match_count += 1
+        
+        # Simpan file kategori meskipun filenya belum pernah dibuat manual sebelumnya
+        cat_file_path = os.path.join(categories_dir, f"{cat_name}.m3u")
+        with open(cat_file_path, 'w', encoding='utf-8') as f:
+            f.write(cat_content)
+        print(f"Kategori {cat_name}.m3u: menyimpan {match_count} channel.")
 
 if __name__ == '__main__':
     main()
