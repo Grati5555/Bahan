@@ -1,0 +1,4 @@
+# Konfigurasi bundel file m3u terpisah
+# Format: nama_bundle=entry1,entry2,...
+#event=01_Thoha-Ajil,02_koko
+#ff=vod,Film
