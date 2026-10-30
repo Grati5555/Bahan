@@ -1,5 +1,6 @@
 import os
 import urllib.request
+import re
 
 def read_txt(file_path):
     if not os.path.exists(file_path):
@@ -19,21 +20,35 @@ def read_txt(file_path):
                 urls.append(url)
     return urls
 
-def parse_m3u(content):
+def parse_m3u_with_options(content):
+    """Memecah playlist m3u secara lengkap beserta baris EXTINF, EXTVLCOPT, dan URL-nya."""
     channels = []
     lines = content.splitlines()
-    current_meta = ""
+    current_extinf = ""
+    current_opts = []
+    
     for line in lines:
         line_str = line.strip()
         if line_str.startswith("#EXTINF:"):
-            current_meta = line_str
-        elif line_str.startswith("http") and current_meta:
-            channels.append({'meta': current_meta, 'url': line_str})
-            current_meta = ""
+            if current_extinf:
+                # Simpan channel sebelumnya jika ada
+                channels.append({'extinf': current_extinf, 'opts': current_opts, 'url': ''})
+                current_opts = []
+            current_extinf = line_str
+        elif line_str.startswith("#EXTVLCOPT:"):
+            current_opts.append(line_str)
+        elif line_str.startswith("http") and current_extinf:
+            channels.append({'extinf': current_extinf, 'opts': current_opts, 'url': line_str})
+            current_extinf = ""
+            current_opts = []
     return channels
 
+def clean_filename(name):
+    """Membersihkan nama kategori agar aman dijadikan nama file."""
+    return re.sub(r'[\\/*?:"<>|(),\s]+', '_', name).strip('_').lower()
+
 def main():
-    print("Memulai bot pemrosesan IPTV & Kategori...")
+    print("Memulai bot pemrosesan IPTV presisi tinggi...")
     data_dir = 'data'
     master_dir = os.path.join(data_dir, 'master')
     categories_dir = os.path.join(data_dir, 'categories')
@@ -41,7 +56,6 @@ def main():
     os.makedirs(master_dir, exist_ok=True)
     os.makedirs(categories_dir, exist_ok=True)
     
-    # 1. Pertahankan proses utama (sources & playlists)
     sources = read_txt(os.path.join(data_dir, 'sources.txt')) + read_txt(os.path.join(data_dir, 'playlists.txt'))
     print(f"Ditemukan {len(sources)} tautan sumber.")
     
@@ -60,42 +74,45 @@ def main():
                     if l and l != "#EXTM3U":
                         raw_content += l + "\n"
                         
-                all_channels.extend(parse_m3u(content))
+                all_channels.extend(parse_m3u_with_options(content))
         except Exception as e:
             print(f"Gagal mengambil {url}: {e}")
             
-    # Simpan hasil master yang sudah ada
+    # 1. Simpan file master utuh
     for filename in ['all.m3u', 'master.m3u']:
         out_path = os.path.join(master_dir, filename)
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(raw_content)
-    print("File master berhasil dipertahankan dan diperbarui.")
+    print("File master berhasil disimpan dengan format lengkap.")
 
-    # 2. Tambahkan hasil M3U perkategori secara otomatis
-    # Daftar kategori default yang sering dicari (bisa Anda tambah atau sesuaikan)
-    default_categories = [
-        "rcti", "sctv", "indosiar", "antv", "transtv", "trans7", 
-        "metrotv", "tvri", "kompastv", "gtv", "inews", "rtv"
-    ]
-    
-    # Ambil juga file kategori tambahan jika Anda sudah membuat filenya di folder categories/
-    existing_files = [os.path.splitext(f)[0].lower() for f in os.listdir(categories_dir) if f.endswith('.m3u')]
-    all_categories = list(set(default_categories + existing_files))
+    # 2. Kelompokkan dan simpan perkategori berdasarkan group-title asli
+    categories_dict = {}
+    for ch in all_channels:
+        # Cari group-title di dalamEXTINF menggunakan Regex
+        match = re.search(r'group-title="([^"]+)"', ch['extinf'])
+        if match:
+            group_name = match.group(1)
+        else:
+            group_name = "Uncategorized"
+            
+        file_key = clean_filename(group_name)
+        if file_key not in categories_dict:
+            categories_dict[file_key] = {"title": group_name, "content": "#EXTM3U\n"}
+            
+        # Susun kembali baris channel lengkap dengan EXTVLCOPT jika ada
+        ch_block = ch['extinf'] + "\n"
+        for opt in ch['opts']:
+            ch_block += opt + "\n"
+        ch_block += ch['url'] + "\n"
+        
+        categories_dict[file_key]["content"] += ch_block
 
-    for cat_name in all_categories:
-        cat_content = "#EXTM3U\n"
-        match_count = 0
-        
-        for ch in all_channels:
-            if cat_name in ch['meta'].lower():
-                cat_content += f"{ch['meta']}\n{ch['url']}\n"
-                match_count += 1
-        
-        # Simpan file kategori meskipun filenya belum pernah dibuat manual sebelumnya
-        cat_file_path = os.path.join(categories_dir, f"{cat_name}.m3u")
+    # Tulis ke file-file m3u di folder categories/
+    for file_key, data in categories_dict.items():
+        cat_file_path = os.path.join(categories_dir, f"{file_key}.m3u")
         with open(cat_file_path, 'w', encoding='utf-8') as f:
-            f.write(cat_content)
-        print(f"Kategori {cat_name}.m3u: menyimpan {match_count} channel.")
+            f.write(data["content"])
+        print(f"Kategori '{data['title']}' disimpan ke {file_key}.m3u")
 
 if __name__ == '__main__':
     main()
