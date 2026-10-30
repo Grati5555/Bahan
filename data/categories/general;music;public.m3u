@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-logo="https://i.imgur.com/7SLYEMG.png" http-referrer="https://www.fomix.nl" group-title="General;Music;Public",FomixTV (1080p)
-#EXTVLCOPT:http-referrer=https://www.fomix.nl
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
