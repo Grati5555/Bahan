@@ -44,61 +44,27 @@ def parse_m3u_with_options(content):
 def clean_filename(name):
     return re.sub(r'[\\/*?:"<>|(),\s]+', '_', name).strip('_').lower()
 
-def main():
-    print("Memulai bot pemrosesan IPTV multi-sumber...")
-    data_dir = 'data'
-    master_dir = os.path.join(data_dir, 'master')
-    categories_dir = os.path.join(data_dir, 'categories')
+def process_sources_to_folder(sources_list, folder_name, categories_base_dir):
+    """Mengunduh dan memecah kategori untuk setiap sumber spesifik ke dalam folder terpisah."""
+    folder_path = os.path.join(categories_base_dir, folder_name)
+    os.makedirs(folder_path, exist_ok=True)
     
-    os.makedirs(master_dir, exist_ok=True)
-    os.makedirs(categories_dir, exist_ok=True)
-    
-    # 1. Sumber Utama (misal dari sources.txt & playlists.txt)
-    sumber_utama = read_txt(os.path.join(data_dir, 'sources.txt')) + read_txt(os.path.join(data_dir, 'playlists.txt'))
-    
-    # 2. Sumber Tambahan Terpisah (dari sources_tambahan.txt)
-    sumber_tambahan = read_txt(os.path.join(data_dir, 'sources_tambahan.txt'))
-    
-    print(f"Sumber Utama: {len(sumber_utama)} tautan | Sumber Tambahan: {len(sumber_tambahan)} tautan")
-    
-    all_channels = []
-    raw_content = "#EXTM3U\n"
-    
-    # Proses semua sumber (Utama + Tambahan)
-    semua_sumber = [("Utama", sumber_utama), ("Tambahan", sumber_tambahan)]
-    
-    for jenis_sumber, daftar_url in semua_sumber:
-        for url in daftar_url:
-            try:
-                print(f"Mengunduh [{jenis_sumber}]: {url}")
-                req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
-                with urllib.request.urlopen(req, timeout=15) as res:
-                    content = res.read().decode('utf-8', errors='ignore')
-                    
-                    for line in content.splitlines():
-                        l = line.strip()
-                        if l and l != "#EXTM3U":
-                            raw_content += l + "\n"
-                            
-                    all_channels.extend(parse_m3u_with_options(content))
-            except Exception as e:
-                print(f"Gagal mengambil {url}: {e}")
+    channels = []
+    for url in sources_list:
+        try:
+            print(f"Mengunduh [{folder_name}]: {url}")
+            req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
+            with urllib.request.urlopen(req, timeout=15) as res:
+                content = res.read().decode('utf-8', errors='ignore')
+                channels.extend(parse_m3u_with_options(content))
+        except Exception as e:
+            print(f"Gagal mengambil {url} untuk {folder_name}: {e}")
             
-    # Simpan Hasil Gabungan Semua Sumber ke Master
-    for filename in ['all.m3u', 'master.m3u']:
-        out_path = os.path.join(master_dir, filename)
-        with open(out_path, 'w', encoding='utf-8') as f:
-            f.write(raw_content)
-    print("File master gabungan berhasil diperbarui.")
-
-    # Simpan Kategori Terpisah Berdasarkan group-title dari Gabungan Semua Sumber
+    # Kelompokkan perkategori untuk sumber ini
     categories_dict = {}
-    for ch in all_channels:
+    for ch in channels:
         match = re.search(r'group-title="([^"]+)"', ch['extinf'])
-        if match:
-            group_name = match.group(1)
-        else:
-            group_name = "Uncategorized"
+        group_name = match.group(1) if match else "Uncategorized"
             
         file_key = clean_filename(group_name)
         if file_key not in categories_dict:
@@ -111,11 +77,65 @@ def main():
         
         categories_dict[file_key]["content"] += ch_block
 
+    # Simpan file M3U perkategori ke dalam sub-folder sumber (misal: categories/Akma/)
     for file_key, data in categories_dict.items():
-        cat_file_path = os.path.join(categories_dir, f"{file_key}.m3u")
+        cat_file_path = os.path.join(folder_path, f"{file_key}.m3u")
         with open(cat_file_path, 'w', encoding='utf-8') as f:
             f.write(data["content"])
-        print(f"Kategori '{data['title']}' diperbarui ke {file_key}.m3u")
+    print(f"Folder kategori '{folder_name}' berhasil diperbarui.")
+
+def main():
+    print("Memulai bot pemrosesan IPTV multi-folder...")
+    data_dir = 'data'
+    master_dir = os.path.join(data_dir, 'master')
+    categories_dir = os.path.join(data_dir, 'categories')
+    
+    os.makedirs(master_dir, exist_ok=True)
+    os.makedirs(categories_dir, exist_ok=True)
+    
+    # 1. Definisikan Sumber Anda
+    sumber_akma = read_txt(os.path.join(data_dir, 'sources.txt')) + read_txt(os.path.join(data_dir, 'playlists.txt'))
+    sumber_tambahan = read_txt(os.path.join(data_dir, 'sources_tambahan.txt'))
+    
+    all_channels_combined = []
+    raw_combined_content = "#EXTM3U\n"
+    
+    # 2. Proses Folder Spesifik "Akma" (dari sumber utama)
+    if sumber_akma:
+        process_sources_to_folder(sumber_akma, "Akma", categories_dir)
+        for url in sumber_akma:
+            try:
+                req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
+                with urllib.request.urlopen(req, timeout=15) as res:
+                    content = res.read().decode('utf-8', errors='ignore')
+                    for line in content.splitlines():
+                        l = line.strip()
+                        if l and l != "#EXTM3U":
+                            raw_combined_content += l + "\n"
+            except:
+                pass
+
+    # 3. Proses Folder Spesifik "Tambahan" (dari sources_tambahan.txt)
+    if sumber_tambahan:
+        process_sources_to_folder(sumber_tambahan, "Tambahan", categories_dir)
+        for url in sumber_tambahan:
+            try:
+                req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
+                with urllib.request.urlopen(req, timeout=15) as res:
+                    content = res.read().decode('utf-8', errors='ignore')
+                    for line in content.splitlines():
+                        l = line.strip()
+                        if l and l != "#EXTM3U":
+                            raw_combined_content += l + "\n"
+            except:
+                pass
+
+    # 4. Simpan Hasil Gabungan Semua Sumber ke Master (Tetap Dipertahankan)
+    for filename in ['all.m3u', 'master.m3u']:
+        out_path = os.path.join(master_dir, filename)
+        with open(out_path, 'w', encoding='utf-8') as f:
+            f.write(raw_combined_content)
+    print("File master gabungan keseluruhan berhasil diperbarui.")
 
 if __name__ == '__main__':
     main()
