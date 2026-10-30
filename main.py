@@ -42,18 +42,8 @@ def parse_m3u_with_options(content):
 def clean_filename(name):
     return re.sub(r'[\\/*?:"<>|(),\s]+', '_', name).strip('_').lower()
 
-def is_channel_active(url):
-    """Pemeriksaan cepat untuk memastikan tautan merespons dengan baik."""
-    try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
-        # Menggunakan method HEAD atau GET dengan timeout cepat
-        with urllib.request.urlopen(req, timeout=5) as res:
-            return res.status == 200
-    except Exception:
-        return False
-
 def main():
-    print("Memulai bot IPTV dengan filter channel aktif...")
+    print("Memulai bot pemrosesan IPTV berkecepatan tinggi...")
     data_dir = 'data'
     master_dir = os.path.join(data_dir, 'master')
     os.makedirs(master_dir, exist_ok=True)
@@ -64,8 +54,6 @@ def main():
         all_sources.extend(read_sources_with_names(file_path))
         
     raw_combined_content = "#EXTM3U\n"
-    active_combined_content = "#EXTM3U\n"
-    active_channels_list = []
     
     for folder_name, url in all_sources:
         if not url.startswith('http'):
@@ -77,7 +65,7 @@ def main():
             with urllib.request.urlopen(req, timeout=15) as res:
                 content = res.read().decode('utf-8', errors='ignore')
                 
-                # Masukkan ke master gabungan keseluruhan
+                # Tambahkan ke master gabungan
                 for line in content.splitlines():
                     l = line.strip()
                     if l and l != "#EXTM3U":
@@ -85,7 +73,7 @@ def main():
                         
                 channels = parse_m3u_with_options(content)
                 
-                # 1. Folder reguler per sumber perkategori
+                # Buat folder per sumber dan kelompokkan perkategori dengan cepat
                 source_folder_path = os.path.join(data_dir, folder_name)
                 os.makedirs(source_folder_path, exist_ok=True)
                 
@@ -104,50 +92,20 @@ def main():
                     ch_block += ch['url'] + "\n"
                     
                     categories_dict[file_key]["content"] += ch_block
-                    
-                    # Cek keaktifan channel untuk dimasukkan ke folder khusus aktif
-                    # (Opsional: batasi pengecekan agar workflow tidak timeout jika channel terlalu banyak)
-                    if is_channel_active(ch['url']):
-                        active_channels_list.append(ch)
-                        active_combined_content += ch_block
 
                 for file_key, data in categories_dict.items():
                     with open(os.path.join(source_folder_path, f"{file_key}.m3u"), 'w', encoding='utf-8') as f:
                         f.write(data["content"])
-                        
+                print(f"Folder '{folder_name}' selesai.")
         except Exception as e:
             print(f"Gagal memproses sumber {folder_name}: {e}")
 
-    # 2. Simpan Master Gabungan Keseluruhan
+    # Simpan Master Gabungan Keseluruhan
     for filename in ['all.m3u', 'master.m3u']:
         with open(os.path.join(master_dir, filename), 'w', encoding='utf-8') as f:
             f.write(raw_combined_content)
-
-    # 3. Buat Folder Khusus "Aktif" yang Berisi Hanya Channel Aktif Saja
-    active_folder_path = os.path.join(data_dir, "Aktif")
-    os.makedirs(active_folder_path, exist_ok=True)
-    
-    active_categories_dict = {}
-    for ch in active_channels_list:
-        match = re.search(r'group-title="([^"]+)"', ch['extinf'])
-        group_name = match.group(1) if match else "Uncategorized"
-        file_key = clean_filename(group_name)
-        
-        if file_key not in active_categories_dict:
-            active_categories_dict[file_key] = {"title": group_name, "content": "#EXTM3U\n"}
             
-        ch_block = ch['extinf'] + "\n"
-        for opt in ch['opts']:
-            ch_block += opt + "\n"
-        ch_block += ch['url'] + "\n"
-        
-        active_categories_dict[file_key]["content"] += ch_block
-
-    for file_key, data in active_categories_dict.items():
-        with open(os.path.join(active_folder_path, f"{file_key}.m3u"), 'w', encoding='utf-8') as f:
-            f.write(data["content"])
-            
-    print("Folder khusus 'Aktif' dan seluruh master berhasil diperbarui.")
+    print("Semua proses selesai dengan cepat!")
 
 if __name__ == '__main__':
     main()
