@@ -33,7 +33,7 @@ def parse_m3u(content):
     return channels
 
 def main():
-    print("Memulai bot pemrosesan IPTV...")
+    print("Memulai bot pemrosesan IPTV & Kategori...")
     data_dir = 'data'
     master_dir = os.path.join(data_dir, 'master')
     categories_dir = os.path.join(data_dir, 'categories')
@@ -63,24 +63,29 @@ def main():
         except Exception as e:
             print(f"Gagal mengambil {url}: {e}")
             
+    # Simpan master
     for filename in ['all.m3u', 'master.m3u']:
         out_path = os.path.join(master_dir, filename)
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(raw_content)
-    print("File master berhasil diperbarui dengan data.")
+    print("File master berhasil diperbarui.")
 
+    # Pecah otomatis ke folder categories/ berdasarkan nama file m3u
     for cat_file in os.listdir(categories_dir):
         if cat_file.endswith('.m3u'):
             cat_name = os.path.splitext(cat_file)[0].lower()
             cat_content = "#EXTM3U\n"
+            match_count = 0
             
             for ch in all_channels:
+                # Cocokkan berdasarkan nama file kategori dengan metadata channel (nama channel atau group-title)
                 if cat_name in ch['meta'].lower():
                     cat_content += f"{ch['meta']}\n{ch['url']}\n"
+                    match_count += 1
             
             with open(os.path.join(categories_dir, cat_file), 'w', encoding='utf-8') as f:
                 f.write(cat_content)
-            print(f"Memperbarui kategori: {cat_file}")
+            print(f"Kategori {cat_file}: ditemukan {match_count} channel.")
 
 if __name__ == '__main__':
     main()
