@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="kompastv" tvg-logo="https://images.indihometv.com/logo_kompastv_big.png" group-title="📺 Nasional",Kompas TV
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/bD6UHeZ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",Kompas TV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 group-title="BERITA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8?app_type=web&userid=lite&chname=Kompas_TV

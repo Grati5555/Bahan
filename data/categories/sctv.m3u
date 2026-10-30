@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SCTV.id" tvg-logo="https://images.indihometv.com/logo_sctv_ver2.png" group-title="📺 Nasional",SCTV
+https://beetv.my.id/jabingan/vd.m3u8?ch=sctv
+#EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Undefined",SCTV2 SD (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+#EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-logo="https://i.imgur.com/tfk298I.png" group-title="Undefined",SCTV3 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
+#EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Undefined",SCTV4 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="Undefined",SCTV6 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+#EXTINF:-1 tvg-id="SCTV7.vn@SD" tvg-logo="https://i.imgur.com/xbIUZYd.png" group-title="Undefined",SCTV7 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 tvg-id="SCTV9.vn@SD" tvg-logo="https://i.imgur.com/OJMbhow.png" group-title="Undefined",SCTV9 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 tvg-id="SCTV11.vn@SD" tvg-logo="https://i.imgur.com/ZmFfy9o.png" group-title="Undefined",SCTV11 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 tvg-id="SCTV12.vn@SD" tvg-logo="https://i.imgur.com/5pDFkH0.png" group-title="Undefined",SCTV12 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 tvg-id="SCTV13.vn@SD" tvg-logo="https://i.imgur.com/aoz1iDw.png" group-title="Undefined",SCTV13 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 tvg-id="SCTV14.vn@SD" tvg-logo="https://i.imgur.com/rIqmRNK.png" group-title="Undefined",SCTV14 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+#EXTINF:-1 tvg-id="SCTV16.vn@SD" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="Undefined",SCTV16 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 tvg-id="SCTV18.vn@SD" tvg-logo="https://i.imgur.com/FfUSlgI.png" group-title="Undefined",SCTV18 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 tvg-id="SCTV19.vn@SD" tvg-logo="https://i.imgur.com/yBAFZRs.png" group-title="Undefined",SCTV19 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-logo="https://i.imgur.com/7ABZhfZ.png" group-title="Undefined",SCTV20 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="General",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Undefined",SESC TV (1080p)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="VSCTV.us@SD" tvg-logo="https://i.imgur.com/cn6pAEZ.png" group-title="General",VSCTV (1080p)
+https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgld-zM5kreabRHpv4w2SjIeuNLo_RL74HiNWYg4YN-w&s=10" tvg-id="kokotv.id" group-title="UEFA EUROPA LEAGUE",SCTV FHD
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/SCTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://wallpaperaccess.com/full/7850968.gif" group-title="PREMIER LEAGUE",LANCARTV FEED SCTV FHD
+https://raw.githubusercontent.com/vannyruru-ui/KokoUyo06/refs/heads/main/UyoSctv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="LOKAL",SCTV HD V+
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#EXTINF:-1 tvg-name="SCTV Digital (server 4)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRq4jbwkNAS1xGvhBM9mdJGvl-N5R8kaZDPzXmQcbQ9w&s=10" tvg-id="Digital.id" group-title="OLAHRAGA LOKAL", SCTV HD CH2
+http://opplextv.cyou:8080/nasir6160/nasir/351030
+#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png" group-title="SPORTS LUAR",SCTV22 HD
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8

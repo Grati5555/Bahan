@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver2.png" group-title="📺 Nasional",Indosiar
+https://beetv.my.id/rbtv/indosiar.m3u
+#EXTINF:-1 tvg-id="Indosiar.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="General",Indosiar HD (1080p)
+http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67iGRe1SflLs3g_Fc9KyJgytv8QizJNb_P_TX4HEGMw&s=10" group-title="BRI LIGA 1 & LIGA 2 PEGADAIAN",LANCARTV FEED INDOSIAR
+https://raw.githubusercontent.com/vannyruru-ui/KokoUyo06/refs/heads/main/Liga1bri.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67iGRe1SflLs3g_Fc9KyJgytv8QizJNb_P_TX4HEGMw&s=10" group-title="BRI LIGA 1 & LIGA 2 PEGADAIAN",INDOSIAR FEED 1
+https://live.vivo155.com/live/sd-1-4614388.m3u8?txSecret=51e3af6ec457df9f63be5db15c758662&txTime=6ADA1206
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67iGRe1SflLs3g_Fc9KyJgytv8QizJNb_P_TX4HEGMw&s=10" group-title="BRI LIGA 1 & LIGA 2 PEGADAIAN",INDOSIAR FEED 2
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav3vNEE1VV6av_hd.m3u8?txSecret=c1916b5ddf9d909d0c2ca27560652462&txTime=6ADB4C40
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybzViNzNhMjV5dWJycmw5aGZhcGtydjN3ODhzb2V5cTV4eGYxN3VoeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fGI87nRZ42IncYkGP5/giphy.gif",INDOSIAR HD V+
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd

@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" group-title="📺 Nasional",ANTV
+https://beetv.my.id/jabingan/vd.m3u8?ch=antv
+#EXTINF:-1 tvg-id="101tvAntequera.es@SD" tvg-logo="https://i.imgur.com/GzI3RC4.png" http-referrer="https://player.instantvideocloud.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera [Geo-blocked]
+https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es@SD" tvg-logo="https://i.imgur.com/GzI3RC4.png" http-referrer="https://player.instantvideocloud.net/" group-title="News",101tv Malaga
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvSevilla.es@SD" tvg-logo="https://i.imgur.com/GzI3RC4.png" http-referrer="https://player.instantvideocloud.net/" group-title="General",101tv Sevilla
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="Entertainment",Aathavan TV (720p)
+https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
+#EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="General",Abadan TV
+https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="General",Ajman TV (1080p)
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General",Al Rayyan TV (1080p)
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV (Indonesia) (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Al-Iman TV (Lebanon) (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" group-title="General",Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Undefined",An Ninh TV HD (1080p)
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Entertainment",Anjan TV (720p)
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" group-title="General",ANTV (Indonesia) (720p)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="Legislative",ANTV (Venezuela) (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-logo="" group-title="Undefined",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Undefined",Aryan TV National (576p)
+https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Religious",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-id="BaanBaanTV73.th@SD" tvg-logo="https://i.imgur.com/JGLy1Pm.png" group-title="Undefined",Baan Baan TV 73
+https://vdo.plathong.net/live8794/live8794/playlist.m3u8
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="General",Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png" group-title="General",Baran TV
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BinhThuanTV.vn@SD" tvg-logo="" group-title="Undefined",Binh Thuan TV (1080p) [Geo-blocked]
+https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BrianTV.la@SD" tvg-logo="https://i.imgur.com/zG1WNgU.jpg" group-title="News",Brian TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV19.us@SD" tvg-logo="https://i.imgur.com/PUQtIa3.png" group-title="General",CAN TV19 (1080p)
+https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV21.us@SD" tvg-logo="https://i.imgur.com/KP5bCYr.png" group-title="General",CAN TV21 (1080p)
+https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV27.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="General",CAN TV27 (1080p)
+https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV36.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="General",CAN TV36 (1080p)
+https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" http-referrer="https://stream.carubantv.id" group-title="Undefined",Caruban TV (1080p)
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ChemodanTV.ua@SD" tvg-logo="https://i.imgur.com/1WjGN8u.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV (1080p)
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-id="DharsanTV.in@SD" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" group-title="Religious",Dharsan TV (720p)
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+#EXTINF:-1 tvg-id="DheeranTV.in@SD" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="Religious",Dheeran TV (576p)
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious",Divya Darshan TV (720p)
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@HD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" group-title="Religious",Divya Darshan TV HD (1080p)
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="DuranTV.ec@SD" tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="General",Duran TV (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="Family",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="GranTV.hu@SD" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" group-title="Religious",Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="HamedanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png" group-title="Undefined",Hamedan TV
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="News",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HunanNewsChannel.cn@SD" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" group-title="News",Hunan News Channel [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="Undefined",Hunan TV (2160p)
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="ImanTV.us@SD" tvg-logo="https://i.imgur.com/Vo6cEYi.png" group-title="Religious",Iman TV (480p)
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" group-title="General",Ionian TV (1080p) [Not 24/7]
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="General",Isfahan TV
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAN_TV/images/LOGO_HD/image.png" group-title="General",Jan TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="General",Jeevan TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+#EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn@SD" tvg-logo="https://i.imgur.com/mPkG8Gi.png" group-title="News",Jiuquan TV News Comprehensive Channel (576p)
+http://117.156.28.119/270000001111/1110000001/index.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo@SD" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="General",Jordan TV (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="KalsanTV.uk@SD" tvg-logo="https://i.imgur.com/AqyY1bR.png" group-title="Culture",Kalsan TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1 tvg-id="KayhanTV.af@SD" tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Music",Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png" group-title="General",Kerman TV
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="General",Khavaran TV
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png" group-title="General",Khozestan TV
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KomsanTV.kh@SD" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="Movies",Komsan TV [Not 24/7]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png" group-title="General",Kordestan TV
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaUrbanTV.es@SD" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Music",La Urban TV (1080p) [Not 24/7]
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="LiangshanTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/liangshantv.jpg" group-title="General",Liangshan TV [Not 24/7]
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="MaanTV.ps@SD" tvg-logo="https://i.imgur.com/hRFa03k.png" group-title="News",Ma'an TV (720p)
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us@SD" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary",MagellanTV Now (1080p)
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="ManoranjanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png" group-title="Entertainment",Manoranjan TV (720p)
+https://cdn.pishow.tv/ott/live/1013/master.m3u8
+#EXTINF:-1 tvg-id="MehranTV.pk@SD" tvg-logo="https://i.imgur.com/ma2bFXk.png" group-title="Culture",Mehran TV (576p)
+http://103.250.28.74:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="MercanTV.tr@SD" tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="Undefined",Mercan TV (576p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="Sports",Milan TV (720p)
+http://team-tv.co:81/milan/index.m3u8
+#EXTINF:-1 tvg-id="MorazanTV.sv@SD" tvg-logo="https://i.imgur.com/Yh1lFZH.jpeg" group-title="General",Morazan TV (720p)
+http://45.167.2.138:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-id="NANTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="News",NAN TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD" tvg-logo="https://i.imgur.com/8yLFkdE.png" group-title="General",Naxcivan TV (720p)
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" group-title="General",Nghe An TV (720p)
+https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+#EXTINF:-1 tvg-id="OceanTV.ru@SD" tvg-logo="https://i.imgur.com/zswzDZS.png" group-title="Undefined",Ocean-TV (576p)
+http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="General",Oman TV (1080p)
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Culture",Oman TV Cultural (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="News",Oman TV Mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",Omid e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk@SD" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Education;Religious",Paighan TV (1080p)
+http://116.90.120.151:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Education",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-logo="https://i.imgur.com/t9wYYY9.png" group-title="General",Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="PrarthanaBhawanTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png" group-title="Undefined",Prarthana Bhawan TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8
+#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",Quran TV (Iran)
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranTV.pk@SD" tvg-logo="https://i.imgur.com/nc7X3Ux.png" group-title="Religious",Quran TV (Pakistan) (576p)
+http://103.250.28.74:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="RadioPiterPanTV.it@SD" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="Music",Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",Sabalan TV
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SantvaniChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540" group-title="Undefined",Santvani Channel (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
+#EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default" group-title="Undefined",Sarbedaran TV
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SemnanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png" group-title="Undefined",Semnan TV
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ShreeSanatanTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/shri_Sanatan_TV.png" group-title="Religious",Shree Sanatan TV (720p)
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",Sichuan TV Women and Children Channel (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="SivanTV.ch@SD" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png" group-title="Religious",Sivan TV (1080p)
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="SudanTV.sd@SD" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="Undefined",Sudan TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Movies",Suriyan TV (576p)
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 tvg-id="TabarestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="General",Tabarestan TV
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Undefined",Tamilan TV (576p)
+https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="General",Tehran TV
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivision36.cr@SD" tvg-logo="https://i.imgur.com/aadWnIx.jpg" http-referrer="https://player.instantvideocloud.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Trivision 36 (720p)
+https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa@SD" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV [Not 24/7]
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+#EXTINF:-1 tvg-id="TuranTV.kz@SD" tvg-logo="https://i.imgur.com/VagTPMo.png" group-title="Undefined",Turan TV (576p)
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="WatanTV.eg@SD" tvg-logo="https://i.imgur.com/pZyKaUH.png" group-title="General",Watan TV (1080p)
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Undefined",Wattan TV
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="General",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Religious",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg" group-title="General",Yunnan Satellite TV (1080p)
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-logo="https://www.ragucommunication.com/site/assets/files/1672/logo_1280.1280x0p50x50.gif" tvg-id="itzplay.id" group-title="SERIE A LEAGUE",FEED LANCARTV ANTV
+https://raw.githubusercontent.com/vannyruru-ui/Antv/refs/heads/main/Antv.m3u8
+#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="LOKAL" tvg-logo="https://64.media.tumblr.com/77d7b93e54d6a77a81b2bec8d1932691/tumblr_ofkh5xUTcX1rqdxf9o1_1280.gif",ANTV HD
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+#EXTINF:-1 group-title="Local Channels" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",CarubanTV
+https://stream.carubantv.id/hls/0/stream.m3u8
