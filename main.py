@@ -44,12 +44,12 @@ def clean_filename(name):
     return re.sub(r'[\\/*?:"<>|(),\s]+', '_', name).strip('_').lower()
 
 def main():
-    print("Memulai bot pemrosesan IPTV per-folder sumber langsung di data/...")
+    print("Memulai bot pemrosesan IPTV lengkap dengan master gabungan...")
     data_dir = 'data'
     master_dir = os.path.join(data_dir, 'master')
     os.makedirs(master_dir, exist_ok=True)
     
-    # Ambil semua sumber dari file konfigurasi txt
+    # Ambil semua sumber dari SEMUA file konfigurasi txt
     all_sources = []
     for txt_file in ['sources.txt', 'playlists.txt', 'sources_tambahan.txt']:
         file_path = os.path.join(data_dir, txt_file)
@@ -59,7 +59,7 @@ def main():
     
     raw_combined_content = "#EXTM3U\n"
     
-    # Proses setiap sumber ke foldernya masing-masing langsung di dalam 'data/'
+    # Proses setiap sumber ke foldernya masing-masing dan gabungkan ke master
     for folder_name, url in all_sources:
         if not url.startswith('http'):
             continue
@@ -70,20 +70,18 @@ def main():
             with urllib.request.urlopen(req, timeout=15) as res:
                 content = res.read().decode('utf-8', errors='ignore')
                 
-                # Tambahkan ke master gabungan keseluruhan
+                # Tambahkan isi channel ke master gabungan keseluruhan
                 for line in content.splitlines():
                     l = line.strip()
                     if l and l != "#EXTM3U":
                         raw_combined_content += l + "\n"
                         
-                # Parse channel untuk dipecah perkategori
+                # Parse channel untuk dipecah perkategori di folder masing-masing
                 channels = parse_m3u_with_options(content)
                 
-                # Buat folder khusus sumber langsung di dalam data/ (contoh: data/Akma/)
                 source_folder_path = os.path.join(data_dir, folder_name)
                 os.makedirs(source_folder_path, exist_ok=True)
                 
-                # Kelompokkan perkategori berdasarkan group-title
                 categories_dict = {}
                 for ch in channels:
                     match = re.search(r'group-title="([^"]+)"', ch['extinf'])
@@ -100,7 +98,6 @@ def main():
                     
                     categories_dict[file_key]["content"] += ch_block
 
-                # Simpan file M3U perkategori ke dalam folder sumber tersebut
                 for file_key, data in categories_dict.items():
                     cat_file_path = os.path.join(source_folder_path, f"{file_key}.m3u")
                     with open(cat_file_path, 'w', encoding='utf-8') as f:
@@ -109,12 +106,12 @@ def main():
         except Exception as e:
             print(f"Gagal memproses sumber {folder_name} ({url}): {e}")
 
-    # Simpan file master gabungan keseluruhan (tetap dipertahankan)
+    # Simpan file master gabungan keseluruhan ke folder master/
     for filename in ['all.m3u', 'master.m3u']:
         out_path = os.path.join(master_dir, filename)
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(raw_combined_content)
-    print("File master gabungan berhasil diperbarui.")
+    print("File master gabungan keseluruhan berhasil diperbarui.")
 
 if __name__ == '__main__':
     main()
