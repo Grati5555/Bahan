@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Football
-http://opplextv.cyou:8080/nasir6160/nasir/346241
-#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Golf
-http://opplextv.cyou:8080/nasir6160/nasir/244976
-#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Racing
-http://opplextv.cyou:8080/nasir6160/nasir/346385
 #EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Action
 http://opplextv.cyou:8080/nasir6160/nasir/346377
-#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports News
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/skynewsnz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 1
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky1nz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 2
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky2nz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 1
-http://opplextv.cyou:8080/nasir6160/nasir/350427
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 2
-http://opplextv.cyou:8080/nasir6160/nasir/350428
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 3
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky3nz.m3u8
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Racing
+http://opplextv.cyou:8080/nasir6160/nasir/346385
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Golf
+http://opplextv.cyou:8080/nasir6160/nasir/244976
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Football
+http://opplextv.cyou:8080/nasir6160/nasir/346241
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 4
 https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky4nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 1
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky1nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 7
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky7nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 3
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky3nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 8
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky8nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 1
+http://opplextv.cyou:8080/nasir6160/nasir/350427
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 10 Select
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/skyselectnz.m3u8
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 3
 http://opplextv.cyou:8080/nasir6160/nasir/350429
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 2
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky2nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 5
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky5nz.m3u8
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 4
 http://opplextv.cyou:8080/nasir6160/nasir/350430
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 5
-http://opplextv.cyou:8080/nasir6160/nasir/350431
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 2
+http://opplextv.cyou:8080/nasir6160/nasir/350428
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports News
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/skynewsnz.m3u8
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 7
 http://opplextv.cyou:8080/nasir6160/nasir/350433
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 9
-http://opplextv.cyou:8080/nasir6160/nasir/350435
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 5
+http://opplextv.cyou:8080/nasir6160/nasir/350431
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 6
 http://opplextv.cyou:8080/nasir6160/nasir/350432
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 10
-http://opplextv.cyou:8080/nasir6160/nasir/350436
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 8
 http://opplextv.cyou:8080/nasir6160/nasir/350434
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport News
-http://opplextv.cyou:8080/nasir6160/nasir/350438
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Golf
 http://opplextv.cyou:8080/nasir6160/nasir/350479
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Premier League
-http://opplextv.cyou:8080/nasir6160/nasir/350425
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Tennis
-http://opplextv.cyou:8080/nasir6160/nasir/350480
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Mix
 http://opplextv.cyou:8080/nasir6160/nasir/350437
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 9
+http://opplextv.cyou:8080/nasir6160/nasir/350435
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Premier League
+http://opplextv.cyou:8080/nasir6160/nasir/350425
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport News
+http://opplextv.cyou:8080/nasir6160/nasir/350438
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Top event
 http://opplextv.cyou:8080/nasir6160/nasir/350481
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga 10
+http://opplextv.cyou:8080/nasir6160/nasir/350436
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Tennis
+http://opplextv.cyou:8080/nasir6160/nasir/350480
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 5
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky5nz.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 9
+https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky9nz.m3u8
+#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb96Mz4qHlLlMWPbwVeF0d7JFRLncK7UaUDA&s" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Bundesliga
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
 #EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sport Moto GP
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 8
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky8nz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 7
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky7nz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 9
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/sky9nz.m3u8
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport 10 Select
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/skyselectnz.m3u8
-#EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb96Mz4qHlLlMWPbwVeF0d7JFRLncK7UaUDA&s" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Bundesliga
-http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
-#EXTINF:-1 tvg-name="Astro" tvg-logo="https://i.imgur.com/gjTNt6Y.jpeg" tvg-id="astro.my" group-title=" Sky & Astro",Astro Cricket
-http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga
-http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/960px-MotoGP_logo_%282024%29.svg.png" group-title="Sky & Astro", SKY Sport MotoGP
 http://weqcffv8.vexiumis.top/iptv/B3VXS594EX7ZAW/19133/index.m3u8
 #EXTINF:-1 tvg-name="Sky sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysports.com" group-title=" Sky & Astro",Sky Sports Tennis
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1 tvg-name="Sky sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-L0sZjEZ3cKD6i2P3EJFYekiy9N4TwPgmqgr268Row&s=10" tvg-id="skysport.com" group-title=" Sky & Astro",Sky Sport Bundesliga
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8
+#EXTINF:-1 tvg-name="Astro" tvg-logo="https://i.imgur.com/gjTNt6Y.jpeg" tvg-id="astro.my" group-title=" Sky & Astro",Astro Cricket
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
