@@ -24197,34 +24197,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/nD2jotM50x4/maxresdefault.jpg" group-title="PLAYLIST KOKO TV", THE TIMELINER MOVIE SEASON 1
 https://dl.dropboxusercontent.com/scl/fi/b5prq0jxxh3q145ejub7f/vidssave.com-The-Timeliner-The-Movie-720P.mp4?rlkey=v3miowc1x5fdcl8bbbc4a8g03&st=8sei6ox9&dl=1
-#EXTINF:-1 group-title="LIVE 30-OKT-26" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Persik Kediri vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel10.m3u8
-#EXTINF:-1 group-title="LIVE 30-OKT-26" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB PSM vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-#EXTINF:-1 group-title="LIVE 30-OKT-26" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Arema vs Bali United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-#EXTINF:-1 group-title="LIVE 30-OKT-26" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Dewa United vs Persija
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel7.flv
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/League-of-Legends-Logo.png",LEAGUE OF LEGENDS
-https://live2.jorvakstreamcache.com/live/channel30.m3u8
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/Dota-2-Symbol.jpg",DOTA 2 PAR
-https://tg0e0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel71/playlist.m3u8?wsSecret=e81316106e8ef0f48fce280ab32ed145&wsABSTime=1792911335&wsSession=c1a7adb3470e560747be6b1c-179286813835943&wsIPSercert=690656f99094be74e16cb34d89341360&wsBindIP=2&wsserid=1168287765269359649
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/Dota-2-Symbol.jpg",DOTA 2 NEX
-https://tg0e1gr4ugmtwgczdrpbufa3dcmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel72/playlist.m3u8?wsSecret=097557270ac25bcfaa7885b9d2cd01e2&wsABSTime=1792911487&wsSession=350b14e7d0a572910c732293-179286829155054&wsIPSercert=690656f99094be74e16cb34d89341360&wsBindIP=2&wsserid=1168311488299020333
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png",CSGO PGL
-https://tg0e1gr4ugmtwgczdrpbufa3dcmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel74/playlist.m3u8?wsSecret=975b9d7bd8da9abd5af0a0a8e3db7b4e&wsABSTime=1792911598&wsSession=01b2b48ed5ef25cbd4f22cfc-179286840070996&wsIPSercert=690656f99094be74e16cb34d89341360&wsBindIP=2&wsserid=1168311488336769911
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png",CSGO CCT
-https://tg0e1gr4ugmtwgczdrpbufa3unmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel75/playlist.m3u8?wsSecret=c99984a5875909064cf274e46b8b77f8&wsABSTime=1792911966&wsSession=e4494cec94b605bd19b02f09-179286876951301&wsIPSercert=690656f99094be74e16cb34d89341360&wsBindIP=2&wsserid=1168311488344110126
-#EXTINF:-1 group-title="LIVE ESPORTS" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png",CSGO CIR
-https://tg0e1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel76/playlist.m3u8?wsSecret=d9ec09906a0f89455b5983cdb49ec8fa&wsABSTime=1792912033&wsSession=58b550e01da2fc08e843c601-179286883677072&wsIPSercert=690656f99094be74e16cb34d89341360&wsBindIP=2&wsserid=1168311491940439020
 #EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",LANCARTV FEED TVRI
 #EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",SPORTV 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -31775,21 +31747,17 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99951411/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/300x300.webp?type=color_onBlack" group-title="XUMO",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_[PLATFORM]_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=[IFA_TYPE]
 # === RCTI+ SECTION ===
-# Updated: 2026-10-31 16:56:44
+# Updated: 2026-10-31 21:07:15
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793476602-e1a6083e356fbfdeb6830fdb94f776c8-0-8e434200f6a7293bfde937242d40b6e4
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793491634-1b58f9f13efd47fec0aca478f168ee9e-0-eae64b991c9fc6d4a4f3bd752f4f9c9e
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793476603-d0046e1d8962bfd719ee03dbe98e6bb0-0-f647be6613079fc9f92eddd35b3e1844
-#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1793476603-fd37abd66e0fd3ae38e19a766b960dcb-0-9c305f1aa02eebabfc642fcd3e56b9a2
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793491634-90c8677f6eb9c1022b1823aafbab6ffa-0-aea634a1ff191e02e853a1c4f5e482f5
 #EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1793476604-fc1a18d3c2571453a0042ed4f4e3e745-0-d8489c9b902313eae242dd5f8e5f14c5
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1793491635-3627e882b058ababb55d1042ecb7318d-0-7e63ae737535172d4bd2b618b62d56a2
 # === END RCTI+ SECTION ===
