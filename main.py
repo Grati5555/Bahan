@@ -1,6 +1,7 @@
 import os
 import urllib.request
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def read_sources_with_names(file_path):
     if not os.path.exists(file_path):
@@ -43,15 +44,12 @@ def clean_filename(name):
     return re.sub(r'[\\/*?:"<>|(),\s]+', '_', name).strip('_').lower()
 
 def is_channel_active(url):
-    """Pengecekan yang lebih aman untuk link streaming IPTV."""
+    """Pengecekan keaktifan link dengan timeout cepat."""
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'VLC/3.0.16'})
-        # Menggunakan timeout sedikit lebih lama agar server merespons
-        with urllib.request.urlopen(req, timeout=8) as res:
-            # Dianggap aktif jika status 200 (OK) atau ada pengalihan (301/302)
+        with urllib.request.urlopen(req, timeout=4) as res:
             return res.status in [200, 301, 302, 307, 308]
     except urllib.error.HTTPError as e:
-        # Beberapa server memberikan error 403/401 tapi link aslinya tetap bisa diputar di player
         if e.code in [401, 403]:
             return True
         return False
@@ -59,7 +57,7 @@ def is_channel_active(url):
         return False
 
 def main():
-    print("Memulai bot pemrosesan IPTV dengan filter aktif yang disempurnakan...")
+    print("Memulai bot pemrosesan IPTV dengan multi-threading berkecepatan tinggi...")
     data_dir = 'data'
     master_dir = os.path.join(data_dir, 'master')
     os.makedirs(master_dir, exist_ok=True)
@@ -70,7 +68,7 @@ def main():
         all_sources.extend(read_sources_with_names(file_path))
         
     raw_combined_content = "#EXTM3U\n"
-    active_channels_list = []
+    all_parsed_channels = []
     
     for folder_name, url in all_sources:
         if not url.startswith('http'):
@@ -88,6 +86,7 @@ def main():
                         raw_combined_content += l + "\n"
                         
                 channels = parse_m3u_with_options(content)
+                all_parsed_channels.extend(channels)
                 
                 # 1. Folder reguler per sumber (tetap dipertahankan normal)
                 source_folder_path = os.path.join(data_dir, folder_name)
@@ -108,10 +107,6 @@ def main():
                     ch_block += ch['url'] + "\n"
                     
                     categories_dict[file_key]["content"] += ch_block
-                    
-                    # Cek aktif untuk folder khusus Aktif
-                    if is_channel_active(ch['url']):
-                        active_channels_list.append(ch)
 
                 for file_key, data in categories_dict.items():
                     with open(os.path.join(source_folder_path, f"{file_key}.m3u"), 'w', encoding='utf-8') as f:
@@ -125,7 +120,22 @@ def main():
         with open(os.path.join(master_dir, filename), 'w', encoding='utf-8') as f:
             f.write(raw_combined_content)
 
-    # 3. Buat Folder Khusus "Aktif"
+    # 3. Cek Keaktifan Channel secara PARALEL (Cepat & Tidak Makan Waktu Jam-jaman)
+    print("Memeriksa keaktifan channel secara paralel...")
+    active_channels_list = []
+    
+    # Menggunakan ThreadPoolExecutor untuk mengecek banyak link sekaligus (max_workers=30)
+    with ThreadPoolExecutor(max_workers=30) as executor:
+        future_to_ch = {executor.submit(is_channel_active, ch['url']): ch for ch in all_parsed_channels}
+        for future in as_completed(future_to_ch):
+            ch = future_to_ch[future]
+            try:
+                if future.result():
+                    active_channels_list.append(ch)
+            except Exception:
+                pass
+
+    # 4. Buat Folder Khusus "Aktif"
     active_folder_path = os.path.join(data_dir, "Aktif")
     os.makedirs(active_folder_path, exist_ok=True)
     
@@ -149,7 +159,7 @@ def main():
         with open(os.path.join(active_folder_path, f"{file_key}.m3u"), 'w', encoding='utf-8') as f:
             f.write(data["content"])
             
-    print("Proses selesai dengan filter aktif yang disempurnakan!")
+    print("Proses selesai dengan sangat cepat dan akurat!")
 
 if __name__ == '__main__':
     main()
