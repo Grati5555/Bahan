@@ -151,10 +151,32 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6486/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6488/index.m3u8
 #EXTINF:0 group-title="CAMPURAN" tvg-id="3633" tvg-logo="http://epg.one/img2/3633.png" tvg-rec="0",Disney Channel HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6490/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",ntv
+http://149.255.154.194/ntv/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",test
 http://149.255.154.194/test/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",BBC1
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",BRAZZERS
 http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",ESPN2
+http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",ZDF
+http://193.239.186.231/ZDF/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",/NPO1
+http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",NPO3
+http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",RTL5
+http://193.239.186.231/RTL5/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",RTL8
+http://193.239.186.231/RTL8/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",SBS9
+http://193.239.186.231/SBS9/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",ESPN3
+http://193.239.186.231/ESPN3/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",ESPN4
+http://193.239.186.231/ESPN4/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",AT5
 http://193.239.186.231/AT5/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",RTL
@@ -179,12 +201,18 @@ http://193.239.187.97/RTL4/index.m3u8
 http://193.239.187.97/RTL7/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",RTLZ
 http://193.239.187.97/RTLZ/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",SBS6
+http://193.239.187.97/SBS6/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",L1TV
+http://193.239.187.97/L1TV/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",BRAZZERS
 http://193.239.187.102/BRAZZERS/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",CNN
 http://193.239.187.102/CNN/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",EURONEWS
 http://193.239.187.102/EURONEWS/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",MTV
+http://193.239.187.102/MTV/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",ONS
 http://193.239.187.102/ONS/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",NickToons
@@ -237,23 +265,249 @@ http://185.9.2.18/chid_742/playlist.m3u8
 http://185.9.2.18/chid_743/playlist.m3u8
 #EXTINF:-1 group-title="CAMPURAN",Syria Drama
 http://185.9.2.18/chid_1235/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Calcio" group-title="CAMPURAN",Sky Sports Calcio
+https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
+#EXTINF:-1 tvg-name="Test Sport " group-title="CAMPURAN",Test Sport
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1 tvg-name="Dazn Eleven 2" group-title="CAMPURAN",Dazn Eleven 2
+https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="CAMPURAN",beIN Sports 2
+https://1nyaler.streamhostingcdn.top/stream/4/index.m3u8
+#EXTINF:-1 tvg-name="Dazn Eleven " group-title="CAMPURAN",Dazn Eleven
+https://1nyaler.streamhostingcdn.top/stream/6/index.m3u8
+#EXTINF:-1 tvg-name="Dazn Eleven 1" group-title="CAMPURAN",Dazn Eleven 1
+https://1nyaler.streamhostingcdn.top/stream/7/index.m3u8
+#EXTINF:-1 tvg-name="Dazn Eleven 2" group-title="CAMPURAN",Dazn Eleven 2
+https://1nyaler.streamhostingcdn.top/stream/8/index.m3u8
+#EXTINF:-1 tvg-name="Dazn Eleven 3" group-title="CAMPURAN",Dazn Eleven 3
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4" group-title="CAMPURAN",beIN Sports 4
+https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports " group-title="CAMPURAN",beIN Sports ar
+https://1nyaler.streamhostingcdn.top/stream/12/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 8" group-title="CAMPURAN",beIN Sports Max 8 fr
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 7" group-title="CAMPURAN",beIN Sports Max 7 fr
+https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 6" group-title="CAMPURAN",beIN Sports Max 6 fr
+https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 5" group-title="CAMPURAN",beIN Sports Max 5 fr
+https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 4" group-title="CAMPURAN",beIN Sports Max 4 fr
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="CAMPURAN",beIN Sports 3 tr
+https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="CAMPURAN",beIN Sports 3 fr
+https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="CAMPURAN",beIN Sports 2 tr
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="CAMPURAN",beIN Sports 2 fr
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="CAMPURAN",beIN Sports 1 tr
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports tr 2" group-title="CAMPURAN",beIN Sports tr 2
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="CAMPURAN",beIN Sports 2
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="CAMPURAN",beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="CAMPURAN",beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 5" group-title="CAMPURAN",beIN Sports 5
+https://1nyaler.streamhostingcdn.top/stream/24/index.m3u8
+#EXTINF:-1 tvg-name="F2" group-title="CAMPURAN",F2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 tvg-name="SPORTDIGITAL" group-title="CAMPURAN",SPORTDIGITAL
+https://1nyaler.streamhostingcdn.top/stream/28/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports ca" group-title="CAMPURAN",beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports ca" group-title="CAMPURAN",beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1" group-title="CAMPURAN",SPORT TV 1
+https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 2" group-title="CAMPURAN",SPORT TV 2
+https://1nyaler.streamhostingcdn.top/stream/34/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3" group-title="CAMPURAN",SPORT TV 3
+https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 4" group-title="CAMPURAN",SPORT TV 4
+https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT " group-title="CAMPURAN",NOVA SPORT TV
+https://1nyaler.streamhostingcdn.top/stream/37/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT 2" group-title="CAMPURAN",NOVA SPORT TV 2
+https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT 3" group-title="CAMPURAN",NOVA SPORT TV 3
+https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT 4" group-title="CAMPURAN",NOVA SPORT TV 4
+https://1nyaler.streamhostingcdn.top/stream/40/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT 5" group-title="CAMPURAN",NOVA SPORT TV 5
+https://1nyaler.streamhostingcdn.top/stream/41/index.m3u8
+#EXTINF:-1 tvg-name="NOVA SPORT 6" group-title="CAMPURAN",NOVA SPORT TV 6
+https://1nyaler.streamhostingcdn.top/stream/42/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports 1" group-title="CAMPURAN",DAZN Eleven Sports 1
+https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports 2" group-title="CAMPURAN",DAZN Eleven Sports 2
+https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports 3" group-title="CAMPURAN",DAZN Eleven Sports 3
+https://1nyaler.streamhostingcdn.top/stream/45/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 2" group-title="CAMPURAN",Cosmote Sport 2 gr
+https://1nyaler.streamhostingcdn.top/stream/46/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 8" group-title="CAMPURAN",Cosmote Sport 8 gr
+https://1nyaler.streamhostingcdn.top/stream/47/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 7" group-title="CAMPURAN",Cosmote Sport 7 gr
+https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 5" group-title="CAMPURAN",Cosmote Sport 5 gr
+https://1nyaler.streamhostingcdn.top/stream/49/index.m3u8
+#EXTINF:-1 tvg-name="Cosmote Sport 2" group-title="CAMPURAN",Cosmote Sport 2 gr
+https://1nyaler.streamhostingcdn.top/stream/50/index.m3u8
+#EXTINF:-1 tvg-name="Canal Sports 11" group-title="CAMPURAN",Canal Sports 11
+https://1nyaler.streamhostingcdn.top/stream/51/index.m3u8
+#EXTINF:-1 tvg-name="Canal Sports 5" group-title="CAMPURAN",Canal Sports 5
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#EXTINF:-1 tvg-name="ECDF Sports " group-title="CAMPURAN",ECDF
+https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
+#EXTINF:-1 tvg-name="DUBAI Sport " group-title="CAMPURAN",DUBAI Sport
+https://1nyaler.streamhostingcdn.top/stream/55/index.m3u8
+#EXTINF:-1 tvg-name="FOXSOCCER PLUS " group-title="CAMPURAN",FOXSOCCER PLUS
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 tvg-name="LaLiga TV " group-title="CAMPURAN",LaLiga
+https://1nyaler.streamhostingcdn.top/stream/59/index.m3u8
+#EXTINF:-1 tvg-name="L1 TV " group-title="CAMPURAN",L1 TV
+https://1nyaler.streamhostingcdn.top/stream/60/index.m3u8
+#EXTINF:-1 tvg-name="L1 TV " group-title="CAMPURAN",L1 TV
+https://1nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-name="L1 TV " group-title="CAMPURAN",L1 TV
+https://1nyaler.streamhostingcdn.top/stream/62/index.m3u8
+#EXTINF:-1 tvg-name="Juniroi mtv " group-title="CAMPURAN",Juniroi mtv
+https://1nyaler.streamhostingcdn.top/stream/63/index.m3u8
+#EXTINF:-1 tvg-name="MAGENTE Sport " group-title="CAMPURAN",MAGENTE Sport
+https://1nyaler.streamhostingcdn.top/stream/64/index.m3u8
+#EXTINF:-1 tvg-name="TEST Sport " group-title="CAMPURAN",TEST Sport
+https://1nyaler.streamhostingcdn.top/stream/65/index.m3u8
+#EXTINF:-1 tvg-name="M+ Sport " group-title="CAMPURAN",M+ Sport
+https://1nyaler.streamhostingcdn.top/stream/66/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 2" group-title="CAMPURAN",Polsat Sport 2
+https://1nyaler.streamhostingcdn.top/stream/68/index.m3u8
+#EXTINF:-1 tvg-name="PREMIERE" group-title="CAMPURAN",PREMIERE
+https://1nyaler.streamhostingcdn.top/stream/69/index.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="CAMPURAN",ZDF
+https://1nyaler.streamhostingcdn.top/stream/71/index.m3u8
+#EXTINF:-1 tvg-name="SkySports LaLiga" group-title="CAMPURAN",SkySports LaLiga
+https://1nyaler.streamhostingcdn.top/stream/74/index.m3u8
+#EXTINF:-1 tvg-name="Tennis" group-title="CAMPURAN",Tennis
+https://1nyaler.streamhostingcdn.top/stream/75/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football" group-title="CAMPURAN",Sky Sports Football
+https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports MainEvent" group-title="CAMPURAN",Sky Sports MainEvent
+https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports+" group-title="CAMPURAN",Sky Sports+
+https://1nyaler.streamhostingcdn.top/stream/78/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1" group-title="CAMPURAN",Sport 1 ukry
+https://1nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1" group-title="CAMPURAN",Sport 1
+https://1nyaler.streamhostingcdn.top/stream/80/index.m3u8
+#EXTINF:-1 tvg-name="Sport 2" group-title="CAMPURAN",Sport 2
+https://1nyaler.streamhostingcdn.top/stream/81/index.m3u8
+#EXTINF:-1 tvg-name="UNIVISION" group-title="CAMPURAN",UNIVISION
+https://1nyaler.streamhostingcdn.top/stream/83/index.m3u8
+#EXTINF:-1 tvg-name="Tyc Sports" group-title="CAMPURAN",Tyc Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-name="????" group-title="CAMPURAN",????
+https://1nyaler.streamhostingcdn.top/stream/86/index.m3u8
+#EXTINF:-1 tvg-name="RECORD" group-title="CAMPURAN",RECORD
+https://1nyaler.streamhostingcdn.top/stream/87/index.m3u8
+#EXTINF:-1 tvg-name="Tabii Sport 1" group-title="CAMPURAN",Tabii Sport 1
+https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
+#EXTINF:-1 tvg-name="TVP SPORT " group-title="CAMPURAN",TVP SPORT
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 tvg-name="TVÄ°" group-title="CAMPURAN",TVÄ°
+https://1nyaler.streamhostingcdn.top/stream/90/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports 1" group-title="CAMPURAN",DAZN Eleven Sports 1
+https://1nyaler.streamhostingcdn.top/stream/91/index.m3u8
+#EXTINF:-1 tvg-name="SÃ¼per DAZN Sports 1" group-title="CAMPURAN",SÃ¼per DAZN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/92/index.m3u8
+#EXTINF:-1 tvg-name="LIGUE1+ " group-title="CAMPURAN",LIGUE1+
+https://1nyaler.streamhostingcdn.top/stream/93/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports " group-title="CAMPURAN",DAZN Eleven Sports
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports " group-title="CAMPURAN",DAZN Eleven Sports
+https://1nyaler.streamhostingcdn.top/stream/95/index.m3u8
+#EXTINF:-1 tvg-name="ESPN " group-title="CAMPURAN",ESPN
+https://1nyaler.streamhostingcdn.top/stream/96/index.m3u8
+#EXTINF:-1 tvg-name="ESPN " group-title="CAMPURAN",ESPN
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+#EXTINF:-1 tvg-name="ESPN " group-title="CAMPURAN",ESPN
+https://1nyaler.streamhostingcdn.top/stream/98/index.m3u8
+#EXTINF:-1 tvg-name="ESPN " group-title="CAMPURAN",ESPN
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" group-title="CAMPURAN",ESPN 2
+https://1nyaler.streamhostingcdn.top/stream/101/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" group-title="CAMPURAN",ESPN 3
+https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" group-title="CAMPURAN",ESPN 2
+https://1nyaler.streamhostingcdn.top/stream/103/index.m3u8
+#EXTINF:-1 tvg-name="ESPN " group-title="CAMPURAN",ESPN
+https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
+#EXTINF:-1 tvg-name="DSports " group-title="CAMPURAN",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2" group-title="CAMPURAN",Arena Sport 2 cz
+https://1nyaler.streamhostingcdn.top/stream/107/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 1" group-title="CAMPURAN",Arena Sport 1 cz
+https://1nyaler.streamhostingcdn.top/stream/108/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 2" group-title="CAMPURAN",Arena Sport 2
+https://1nyaler.streamhostingcdn.top/stream/109/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 3" group-title="CAMPURAN",Arena Sport 3
+https://1nyaler.streamhostingcdn.top/stream/110/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 4" group-title="CAMPURAN",Arena Sport 4
+https://1nyaler.streamhostingcdn.top/stream/111/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 5" group-title="CAMPURAN",Arena Sport 5
+https://1nyaler.streamhostingcdn.top/stream/112/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 6" group-title="CAMPURAN",Arena Sport 6
+https://1nyaler.streamhostingcdn.top/stream/113/index.m3u8
+#EXTINF:-1 tvg-name="Arena Sport 7" group-title="CAMPURAN",Arena Sport 7
+https://1nyaler.streamhostingcdn.top/stream/114/index.m3u8
+#EXTINF:-1 tvg-name="Arena1x2 Sport " group-title="CAMPURAN",Arena1x2 Sport
+https://1nyaler.streamhostingcdn.top/stream/115/index.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="CAMPURAN",ZDF
+https://1nyaler.streamhostingcdn.top/stream/116/index.m3u8
+#EXTINF:-1 tvg-name="AZTECA" group-title="CAMPURAN",AZTECA
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport " group-title="CAMPURAN",Canal+ Sport cz
+https://1nyaler.streamhostingcdn.top/stream/118/index.m3u8
+#EXTINF:-1 tvg-name="Direct Sport " group-title="CAMPURAN",Direct Sport
+https://1nyaler.streamhostingcdn.top/stream/119/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport " group-title="CAMPURAN",Canal+ Sport
+https://1nyaler.streamhostingcdn.top/stream/120/index.m3u8
+#EXTINF:-1 tvg-name="CBC Sports " group-title="CAMPURAN",CBC Sports
+https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="CAMPURAN",TNT Sports 1
+https://1nyaler.streamhostingcdn.top/stream/122/index.m3u8
+#EXTINF:-1 tvg-name="Sport 2" group-title="CAMPURAN",Sport 2
+https://1nyaler.streamhostingcdn.top/stream/124/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Select" group-title="CAMPURAN",Sky Sports Select
+https://1nyaler.streamhostingcdn.top/stream/126/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports " group-title="CAMPURAN",Sky Sports
+https://1nyaler.streamhostingcdn.top/stream/127/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports " group-title="CAMPURAN",Sky Sports
+https://1nyaler.streamhostingcdn.top/stream/128/index.m3u8
+#EXTINF:-1 tvg-name="DAZN Eleven Sports " group-title="CAMPURAN",DAZN Eleven Sports
+https://1nyaler.streamhostingcdn.top/stream/129/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Uno" group-title="CAMPURAN",Sky Sports Uno
+https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8
+#EXTINF:-1 tvg-name="Deportes Sports " group-title="CAMPURAN",Deportes Sports
+https://1nyaler.streamhostingcdn.top/stream/131/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/27/1/axn-black-logo-png_seeklogo-270282.png" group-title="CAMPURAN",AXN_BLACK
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="CAMPURAN",EUROSPORT_2
 http://50.7.120.34:8080/EUROSPORT_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUIfcyjrvEbHwdjZ2QxNeQiC7aVYb3LPlmJorxlpV8Q&s=10" group-title="CAMPURAN",RTP_1
 http://50.7.120.34:8080/RTP_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://al-fado.com/app/uploads/2022/04/RTP2-logo-Yellow.jpg" group-title="CAMPURAN",RTP_2
-http://50.7.120.34:8080/RTP_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5bb96930235559.5619a694ecfbb.png" group-title="CAMPURAN",RTP_3
-http://50.7.120.34:8080/RTP_3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.impresa.pt/impresa/2019-02-01-sic.png-1/original" group-title="CAMPURAN",SIC
 http://50.7.120.34:8080/SIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_Cine_Action_logo.png?1749721590" group-title="CAMPURAN",TVCINE ACTION
 http://50.7.120.34:8080/TV_CINE_2/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",TVI
 http://50.7.120.34:8080/TVI/index.m3u8
-#EXTINF:-1 group-title="CAMPURAN",AXN_WHITE
-http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 group-title="CAMPURAN",PORTO_CANAL
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:-1 group-title="CAMPURAN",CANAL_11
 http://50.7.120.34:8080/CANAL_11/index.m3u8

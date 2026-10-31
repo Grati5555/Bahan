@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="PIALA JERMAN (DFB POKAL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaod70x_TTcRW23akb0kM2vxe_SocNunFggpRhm0llHb9Zzg17HOO8T8&s=10",SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 group-title="PIALA JERMAN (DFB POKAL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaod70x_TTcRW23akb0kM2vxe_SocNunFggpRhm0llHb9Zzg17HOO8T8&s=10",Premier Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 group-title="PIALA JERMAN (DFB POKAL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaod70x_TTcRW23akb0kM2vxe_SocNunFggpRhm0llHb9Zzg17HOO8T8&s=10",Premier Sports 2

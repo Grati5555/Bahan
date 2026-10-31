@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Edutainment TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
