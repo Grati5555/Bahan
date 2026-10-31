@@ -1,15 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",DSPORTS 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 #EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",SPORTV 1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
-#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",SPORTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",SPORTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",DSPORTS 1
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",DSPORTS 2
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",SPORTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",DSPORTS 3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+#EXTINF:-1 group-title="WORLD CUP U-17 WOMEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7QdTg9mBzgpE9ry08K6HlTXgSYs3E1uYivgEr--jYgz7lRzP9ygjVPc&s=10",DSPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
