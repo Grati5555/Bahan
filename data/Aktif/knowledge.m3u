@@ -3,14 +3,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png",Crime Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -19,8 +21,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg@SD" group-title="Knowledge" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 #EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="Knowledge" tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg",Dens Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
