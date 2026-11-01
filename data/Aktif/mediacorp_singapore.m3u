@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" group-title="Mediacorp Singapore",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
-#EXTINF:-1 tvg-id="Vasantham" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="Mediacorp Singapore",Vasantham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 #EXTINF:-1 tvg-id="Ch U" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-logo="" group-title="Mediacorp Singapore",Channel U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp Singapore",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+#EXTINF:-1 tvg-id="Vasantham" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="Mediacorp Singapore",Vasantham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 #EXTINF:-1 tvg-id="Suria" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-logo="" group-title="Mediacorp Singapore",Suria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 #EXTINF:-1 tvg-id="CNA" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-url="https://bit.ly/SingaporeEpg" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="Mediacorp Singapore",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp Singapore",Channel 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd

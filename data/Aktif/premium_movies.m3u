@@ -6,22 +6,30 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="Premium Movies", STUDIO UNIVERSAL (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#EXTINF:-1 group-title="Premium Movies" tvg-id="GalaxyPremium.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Premium Movies",AXN (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="Premium Movies", STUDIO UNIVERSAL (Vision+)
+#EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi",KIX (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-#EXTINF:-1 group-title="Premium Movies" tvg-id="GalaxyPremium.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium (Vision+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy (Vision+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="Premium Movies",Celestial Movies (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 #EXTINF:-1 tvg-id="Cinemachi.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="Premium Movies",ORIGINALS (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
@@ -29,14 +37,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-#EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi",KIX (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 #EXTINF:-1 tvg-id="CinemachiAction.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="Premium Movies",Cineedge (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
@@ -50,16 +50,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #EXTINF:-1 tvg-id="CinemachiXtra.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="Premium Movies",Uniquest (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="Premium Movies",Miramax Film
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.5Y_MlJiwfqD7ZwI3JEZD8gAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MN+ HD
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.99THytQHmeLB8wVjHmpt8AAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.7bnanpw5pwiD9QHrtALJYgAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.CX3qZjx5VWWAZSrPwmEcFwAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MNX HD
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="Premium Movies",Miramax Film
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.5Y_MlJiwfqD7ZwI3JEZD8gAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MN+ HD
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP._2P17CH7utW-IubLX2u_YgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="Premium Movies", BBC First
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd?encoding=segmentBase
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe (DensTV)
@@ -67,3 +65,5 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/
 #EXTVLCOPT:http-origin=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.CX3qZjx5VWWAZSrPwmEcFwAAAA?pid=Api&P=0&h=220" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="https://tse1.mm.bing.net/th/id/OIP.BeKF12OIhBy1TCySJInq9AAAAA?pid=Api&P=0&h=220" group-title="Premium Movies", MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd

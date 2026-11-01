@@ -19,10 +19,10 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq@SD" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" group-title="Culture",Bonaire.tv (1080p) [Not 24/7]
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
-#EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Culture (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Culture (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Culture",C Malayalam TV (1080p)
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="Culture",Canal 17 RTVD (1080p)
@@ -62,11 +62,11 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="FNX.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Culture",FNX (1080p)
+https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FNX.us@KVCRDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" http-referrer="https://fnx.org/" group-title="Culture",FNX KVCR-DT [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://fnx.org/
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="FNX.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Culture",FNX (1080p)
-https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",Guaymate TV (720p) [Not 24/7]
@@ -75,10 +75,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Culture",Hmong Star TV (720p) [Not 24/7]
-https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us@SD" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" group-title="Culture",Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="Culture",Hmong Star TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Culture",Holvoet TV (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca@SD" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Culture",Hyder TV (720p)
@@ -101,10 +101,10 @@ http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture",KTV Arabe (1080p)
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Culture",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture",KTV Arabe (1080p)
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="Culture",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr@SD" tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="Culture",Luys TV (1080p)

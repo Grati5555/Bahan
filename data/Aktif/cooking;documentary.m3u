@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Cooking;Documentary",Pluto TV Food GB
-https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Cooking;Documentary",Pluto TV Food
 https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@GB" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Cooking;Documentary",Pluto TV Food GB
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
