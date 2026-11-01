@@ -1,38 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="69" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png" group-title="China",FORMOSA TV
+#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
-#EXTINF:-1 tvg-id="70" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png" group-title="China",SET
+https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROTcvXkw6mDzP7ohM3wQFYfFraN0Rpohw2lULgV31TxA&s=10",CCTV 3
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCouo33Z5IDYzthET97Qg5iD3-DS2plDHzHhVfcwuibA&s=10",CCTV 5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/20200128_031202.png/revision/latest/scale-to-width-down/250?cb=20200127201219",CCTV 4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_vpIH4fkODtWptSFfb5OC6KR8HuwvzeukPnnfd0wPA&s=10",CCTV 5+
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtr1NW2ua6Wy9Zn7Mt7rB_RUTLwVwV3ORgGu-X7ysvbQ&s=10",CCTV 7
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVbAMpsOvDJHXuyBidep8kqInlKGuLTbOpfqOC2NaTw&s=10",CCTV 8K
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXB1gNDKjA6U8niZG1D6srYhWjONQY-urh3iA0cDXHyg&s=10",CCTV 10
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/CCTV_channel_11.svg/1280px-CCTV_channel_11.svg.png",CCTV 11
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://i.namu.wiki/i/TQuzhQVx38EUjeErYm2DxuzsZYTScHKMQigIhIwJJfoFdvJixxSUGCNI-r-SzTcPLFbPi8Dvbja8CtWzE5xYqQ.svg",CCTV 12
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9jjhqy2NwyDn8N2eCiGp-WFVikQgSKmVpA&s",CCTV 17
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARms7M99QdXHgaZjP3jBMJbjPsDm6C7LzJPOMak7KBA&s=10",CCTV 16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHji3qEnlm25_QxDZ9RXn1LqV8iJIxR1TroXxjk-ZwzQ&s=10",CCTV 9
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghxw24zZ3_8LGS4zh120O2X4t2GGu35Bl9A&s",CCTV 15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
 #EXTINF:-1 tvg-id="JiangsuTV.cn@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -41,19 +15,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
-#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
-#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 #EXTINF:-1 tvg-id="SETTaiwan.tw@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png",Sanlih (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
-#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV (Vision+)
+#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd

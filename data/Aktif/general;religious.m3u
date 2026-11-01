@@ -6,6 +6,8 @@ https://live.approvaltv.com/approvaltv/index.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 tvg-id="CaritasTV.py@SD" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="General;Religious",Caritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+#EXTINF:-1 tvg-id="CityEdenTV.ru@HD" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="General;Religious",City Eden TV [Not 24/7]
+https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="General;Religious",Holy Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSV231.us@SD" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="General;Religious",KBSV 23.1 (720p) [Not 24/7]
