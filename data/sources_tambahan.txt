@@ -1,3 +1,3 @@
 akma=https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KITKATJOSS
 Apistech=https://raw.githubusercontent.com/apistech/project/refs/heads/main/IndihomeTV.m3u
-
+kokoterbaru=https://bintangstreaming.my.id/koko_tv_live/playlist.php?code=Rizal1
