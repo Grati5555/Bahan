@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us@SD" tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="Entertainment;News",30A Georgia Hollywood Review (720p)
 https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News",E! Latin America Mexico (720p)
-http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News",E! Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="Entertainment;News",Entertainment Tonight (1080p)

@@ -3,8 +3,6 @@
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Classic;Movies",Bollywood Classic Romania (576p)
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodFilm.ro@SD" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Classic;Movies",Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="https://i.imgur.com/XIk5EJN.png" http-referrer="https://void.greenhosting.ru/" group-title="Classic;Movies",Movify Kino (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8

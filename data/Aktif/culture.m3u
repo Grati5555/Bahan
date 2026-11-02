@@ -35,8 +35,6 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Culture",Channel S (United Kingdom) (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChiloeRed25.cl@SD" tvg-logo="https://i.imgur.com/3tqrImm.png" group-title="Culture",Chiloe Red 25 (720p)
-https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Culture",Ciracu TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe@SD" tvg-logo="https://i.imgur.com/h0LxXsx.png" group-title="Culture",Cultura 24
@@ -46,10 +44,10 @@ https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu@SD" tvg-logo="https://i.imgur.com/aAcORTL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="Culture",Doyel TV
-https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="DR2.dk@SD" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Culture",DR2 (1080p) [Geo-blocked]
 https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="Culture",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Culture",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-id="EawazTV.ca@SD" tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Culture",Eawaz TV (720p) [Not 24/7]
@@ -97,10 +95,10 @@ https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD" tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="Culture",Kajou TV (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 tvg-id="KIIOLD101.us@HD" tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="Culture",KIIO-LD 10.1
-http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us@SD" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="Culture",KIIO-LD 10.4 (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-id="KIIOLD101.us@HD" tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="Culture",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Culture",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Culture",KTV Arabe (1080p)

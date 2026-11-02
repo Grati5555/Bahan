@@ -87,6 +87,8 @@ http://185.37.150.46/Karusel/index.m3u8
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="Kids",Cartoon Classics (Russia)
 http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@SD" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Czechia" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Czechia
 http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Poland (1080p)

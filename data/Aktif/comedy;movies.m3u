@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Comedy;Movies",Pluto TV Comedies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de@ES" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="Comedy;Movies",Pluto TV Comedias Romanticas
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Comedy;Movies",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Comedy;Movies",Pluto TV Comedies Cultes
-https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHumor.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" group-title="Comedy;Movies",Pluto TV Humor (Sweden)
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKomedie.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoPNG.png" group-title="Comedy;Movies",Pluto TV Komedie
