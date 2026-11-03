@@ -4,18 +4,18 @@
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Becker.se@DK" tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png" group-title="Classic;Series",Becker (Sweden) DK
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
-#EXTINF:-1 tvg-id="Becker.se@SE" tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png" group-title="Classic;Series",Becker (Sweden)
-https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1 tvg-id="Becker.se@NO" tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png" group-title="Classic;Series",Becker (Sweden) NO
 https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+#EXTINF:-1 tvg-id="Becker.se@SE" tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png" group-title="Classic;Series",Becker (Sweden)
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1 tvg-id="CinCin.de@IT" tvg-logo="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png" group-title="Classic;Series",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-id="DiagnosisMurder.se@SE" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="Classic;Series",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
 #EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="Classic;Series",Diagnosis Murder NO
 https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
 #EXTINF:-1 tvg-id="DiagnosisMurder.se@DK" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="Classic;Series",Diagnosis Murder DK
 https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@SE" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" group-title="Classic;Series",Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="Classic;Series",Happy Days (Sweden) DK
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 #EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" group-title="Classic;Series",Happy Days (Sweden)
@@ -28,37 +28,37 @@ https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
 #EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" group-title="Classic;Series",JAG (Sweden) NO
 https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Classic;Series",MacGyver (Sweden)
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-id="MacGyver.se@DK" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Classic;Series",MacGyver (Sweden) DK
 https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Classic;Series",MacGyver (Sweden)
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-id="MacGyver.se@NO" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Classic;Series",MacGyver (Sweden) NO
 https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="Classic;Series",Matlock (Sweden) NO
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
 #EXTINF:-1 tvg-id="Matlock.se@SE" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="Classic;Series",Matlock (Sweden)
 https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-id="Matlock.se@DK" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="Classic;Series",Matlock (Sweden) DK
 https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" group-title="Classic;Series",Matlock (Sweden) NO
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="Classic;Series",Mission Impossible (Sweden)
 https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@NO" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="Classic;Series",Mission Impossible (Sweden) NO
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="Classic;Series",Mission Impossible (Sweden) DK
 https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.se@NO" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" group-title="Classic;Series",Mission Impossible (Sweden) NO
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD" tvg-logo="https://i.imgur.com/FiIRQAR.png" group-title="Classic;Series",Pluto TV The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Classic;Series",Rawhide (Sweden) DK
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Classic;Series",Rawhide (Sweden)
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@NO" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Classic;Series",Rawhide (Sweden) NO
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Classic;Series",Rawhide (Sweden) DK
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="TheLoop.us@SD" tvg-logo="https://i.imgur.com/iyYLuJj.png" group-title="Classic;Series",The Loop (1080p)
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
+#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Classic;Series",The Wild Wild West (Sweden) DK
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se@NO" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Classic;Series",The Wild Wild West (Sweden) NO
 https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Classic;Series",The Wild Wild West (Sweden)
 https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Classic;Series",The Wild Wild West (Sweden) DK
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
