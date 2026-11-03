@@ -1,28 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/1200px-Nickelodeon_Junior.png" group-title="Kids Channel",Nickelodeon Junior (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png?v=2025061816" group-title="Kids Channel",Nickelodeon (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 #EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p0fpxchz.png" group-title="Kids Channel",Cbeebies (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:-1 tvg-id="MentariTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="Kids Channel",Mentari TV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/1200px-Nickelodeon_Junior.png" group-title="Kids Channel",Nickelodeon Junior (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="Kids Channel",Dreamworks HD (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-#EXTINF:-1 tvg-id="56" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Kids Channel",Kids TV (Vision+)
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+#EXTINF:-1 tvg-id="MMoonbugKids.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png?v=2025061816" group-title="Kids Channel",Nickelodeon (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids Channel",ZooMoo (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -30,27 +34,23 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTINF:-1 tvg-id="CinemachiKids.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="Kids Channel",Buddy Star (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-#EXTINF:-1 tvg-id="MMoonbugKids.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (Vision+)
+#EXTINF:-1 tvg-id="56" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="Kids Channel",Kids TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
-#EXTINF:-1 tvg-id="MentariTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="Kids Channel",Mentari TV (Vision+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ABCForKids_%281998-2009%29.png/revision/latest?cb=20211022234203" group-title="Kids Channel",ABC Kids All Aussie
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids Channel",ABC Kids
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="Kids Channel",ABC Kids Play School
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
-#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6469.1480802065.png" group-title="Kids Channel",ABC Cartoons
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids Channel",Duck tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids Channel",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-#EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids Channel",Duck tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ABCForKids_%281998-2009%29.png/revision/latest?cb=20211022234203" group-title="Kids Channel",ABC Kids All Aussie
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="Kids Channel",ABC Kids Play School
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids Channel",ABC Kids
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+#EXTINF:-1 tvg-logo="https://media.info/l/o/6/6469.1480802065.png" group-title="Kids Channel",ABC Cartoons
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 #EXTINF:-1 tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/Logo-URL-Wide-1020x574_BigKids_new.png" group-title="Kids Channel",ABC Big Kids All Aussie
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
 #EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/4X/f/2/6/f2615540d13e556f165ccac0cedca716d900c481.png" group-title="Kids Channel",ABC Big Kids

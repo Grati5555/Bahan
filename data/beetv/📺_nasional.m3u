@@ -28,10 +28,9 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/jabingan/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver2.png" group-title="📺 Nasional",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://teagan.mvksstick9uq6cprotection.cfd
-#EXTVLCOPT:http-referrer=https://teagan.mvksstick9uq6cprotection.cfd/
-https://beetv.my.id/rbtv/indosiar.m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/jabingan/vd.m3u8?ch=indosiar
 #EXTINF:-1 tvg-name="tvOne.id" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="📺 Nasional",TVONE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -61,10 +60,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-name="MOJI.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="📺 Nasional",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://may.2f17ubowlsjn46easier.cfd
-#EXTVLCOPT:http-referrer=https://may.2f17ubowlsjn46easier.cfd/
-https://beeg.iclik.workers.dev/?id=0316425447650896
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://nadia79bc.mp77g69ainei3gx2voxygen.ru
+#EXTVLCOPT:http-referrer=https://nadia79bc.mp77g69ainei3gx2voxygen.ru/
+https://beetv.my.id/rbtv/moji.m3u
 #EXTINF:-1 tvg-name="RTV.id" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="📺 Nasional",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

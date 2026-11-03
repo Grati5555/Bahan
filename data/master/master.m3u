@@ -29,10 +29,9 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/jabingan/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver2.png" group-title="📺 Nasional",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://teagan.mvksstick9uq6cprotection.cfd
-#EXTVLCOPT:http-referrer=https://teagan.mvksstick9uq6cprotection.cfd/
-https://beetv.my.id/rbtv/indosiar.m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://beetv.my.id/jabingan/vd.m3u8?ch=indosiar
 #EXTINF:-1 tvg-name="tvOne.id" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="📺 Nasional",TVONE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -62,10 +61,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-name="MOJI.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="📺 Nasional",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://may.2f17ubowlsjn46easier.cfd
-#EXTVLCOPT:http-referrer=https://may.2f17ubowlsjn46easier.cfd/
-https://beeg.iclik.workers.dev/?id=0316425447650896
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://nadia79bc.mp77g69ainei3gx2voxygen.ru
+#EXTVLCOPT:http-referrer=https://nadia79bc.mp77g69ainei3gx2voxygen.ru/
+https://beetv.my.id/rbtv/moji.m3u
 #EXTINF:-1 tvg-name="RTV.id" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="📺 Nasional",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -102,14 +101,15 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports2" tvg-logo="https://beetv.my.id/logo/motogp.png" group-title="⚽ Olahraga", MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top/
-https://dlhd.iclik.workers.dev/?channel=tntsports2&play=1
+https://gp.gaweimel.workers.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tntsports2" tvg-logo="https://beetv.my.id/logo/motogp.png" group-title="⚽ Olahraga", MOTOGP #2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://beetv.my.id/tvnow/?play=32
 #EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://beetv.my.id/logo/f1tv.png" group-title="⚽ Olahraga", Formula 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.ksohls.ru
 #EXTVLCOPT:http-referrer=https://www.ksohls.ru/
-https://dlhd.iclik.workers.dev/?channel=SkySportsF1&play=1
+https://beetv.my.id/tvnow/?play=60
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://beetv.my.id/logo/astrosupersport3.png" group-title="⚽ Olahraga", Anteman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
@@ -285,6 +285,100 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 01
+https://v-mps.crazymaplestudios.com/vod-112094/5014af21c5e971f19a70f7e7c57a0102/4c4e4789b836490484b52c13d125cf18-3cce2884adfd3719d8607499f1142cc1-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 02
+https://v-mps.crazymaplestudios.com/vod-112094/f04ad60fc5e971f19f27e6e7c64b0102/14a8644eef0d49eeb2d06cc47e55d14b-c403c81ff2efc768d833a3bb6605b1d0-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 03
+https://v-mps.crazymaplestudios.com/vod-112094/20d5c91bc5e971f19a70f7e7c57a0102/255e1232ce734b0dabf2277a1ca6f7ce-c51c846e58ebe3d15d73a41638e3208a-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 04
+https://v-mps.crazymaplestudios.com/vod-112094/804fd715c5e971f184c9e7e7c7690102/e9a07b16c4ee4314bb2ebd25dc5543cd-840e7be8f2b26d2c3cb6971f79e53f0b-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 05
+https://v-mps.crazymaplestudios.com/vod-112094/c052ac16c5e971f18622f7e6c5580102/3c540bb4b7f04d6886e2dc08ad5bc419-4458e510c8d6b7ffb6ce6e7556672139-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 06
+https://v-mps.crazymaplestudios.com/vod-112094/60bbb216c5e971f19a70f7e7c57a0102/63f0e3e5825149a98ca275e46d19a1f0-633f9274185993365889a39d0de09d1e-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 07
+https://v-mps.crazymaplestudios.com/vod-112094/30f29b1cc5e971f1b4e2e7e7f57a0102/f681aac0284846c89d45867e52af1d8f-f3deba0a146417dea884ee0e21f20779-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 08
+https://v-mps.crazymaplestudios.com/vod-112094/60e8a721c5e971f19a70f7e7c57a0102/022ac0c07cf34aa7acbcf9e67dec5c5c-1a18d4fee59fcdb2deb9bc7a437952e4-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 09
+https://v-mps.crazymaplestudios.com/vod-112094/b0c4d715c5e971f18c1ce6f6c55a0102/9dd19bcba3974671816532c0671573d8-fdafbfacbbd3df7651f38c402ce1689d-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 10
+https://v-mps.crazymaplestudios.com/vod-112094/20bda921c5e971f19a70f7e7c57a0102/66de645d0b2c4842b2a24e4384ea534e-b4aa39b22283f9e31ea9b56a72eee084-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 11
+https://v-mps.crazymaplestudios.com/vod-112094/201ec117c5e971f1b366e6f7e47a0102/54955d09d62942dba8054c04693257b4-b866c5bec204d36de8314272477974de-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 12
+https://v-mps.crazymaplestudios.com/vod-112094/3088831cc5e971f1b366e6f7e47a0102/9f9ed0d8706e4b3c94cabe021aebb343-6acff32c1bb98f3a28a8e5603b0af73d-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 13
+https://v-mps.crazymaplestudios.com/vod-112094/90fba616c5e971f19a70f7e7c57a0102/35e89f1ba48c422f944fa87343f11d1b-af097c87963a72610641f43d8d16fe34-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 14
+https://v-mps.crazymaplestudios.com/vod-112094/30e5b81bc5e971f184a8f6f6d65a0102/2521742dbfcb424cbbac1fa595bcb355-b7e19c161059b354c7e2a172f03c470f-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 15
+https://v-mps.crazymaplestudios.com/vod-112094/80699d17c5e971f184c9e7e7c7690102/6b4d9fe28f0a46d1be3317b421b2499d-f4ef4a4b51829bc6db990a1930b00d45-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 16
+https://v-mps.crazymaplestudios.com/vod-112094/10259010c5e971f19c1ee6e7d77b0102/2c5abd3a244c42ff95be78f389dd24f2-a1867c8f99ebfeb669d799dd5bd27f92-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 17
+https://v-mps.crazymaplestudios.com/vod-112094/0094ac1cc5e971f19f27e6e7c64b0102/4269f99342ef4e898e96569c9fc8c0b3-e5be1d8f189239b698e393465386ea24-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 18
+https://v-mps.crazymaplestudios.com/vod-112094/f0468316c5e971f1b366e6f7e47a0102/7aa175cfab29498ca774ed7cd6125dc5-93ece5d072bd289aa9b04dafb49ca1d4-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 19
+https://v-mps.crazymaplestudios.com/vod-112094/f0db7917c5e971f18622f7e6c5580102/53952dec6d894d1e96b8c8a5ff99be9f-22da019ec032e52944dd5d516bf38c7c-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 20
+https://v-mps.crazymaplestudios.com/vod-112094/e03d7e16c5e971f18622f7e6c5580102/aeb2320eb9d840ddb59ee65c227c9aa3-5ad2f9d99c236d83ad65dd6993b3ee00-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 21
+https://v-mps.crazymaplestudios.com/vod-112094/50e2cf0fc5e971f19a70f7e7c57a0102/ee27a850910d47d6921894b6bedc13bd-d8533440230768171e9a1883c01b84f2-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 22
+https://v-mps.crazymaplestudios.com/vod-112094/0076b11cc5e971f18408e6f6c55b0102/f7add3a320434a3fad12e3f4803be2f1-f3295c9a01ee7b1e946c43735c42b2d2-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 23
+https://v-mps.crazymaplestudios.com/vod-112094/1046cf0fc5e971f184a8f6f6d65a0102/ef70799273b84c81b66f92ab6a32046a-b0b861645bbbd900de4da7c2b087d3e9-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 24
+https://v-mps.crazymaplestudios.com/vod-112094/00cbb815c5e971f1b366e6f7e47a0102/89e313ecc5d842c29ddfdc566da6575d-e8899054d47eef8456c6ba45fe44cb06-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 25
+https://v-mps.crazymaplestudios.com/vod-112094/b08fcb15c5e971f18c1ce6f6c55a0102/dfc2d3bc914a4a17a2759c9a58bb590a-fcc764045efb6b3c26fed114320c63d6-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 26
+https://v-mps.crazymaplestudios.com/vod-112094/70a1d20fc5e971f19a70f7e7c57a0102/0eb66e0dcc9a4bdb90544f79518f47bb-b7fd5f5259c553be7e498c68c9ae5796-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 27
+https://v-mps.crazymaplestudios.com/vod-112094/c05cda15c5e971f19f27e6e7c64b0102/0374bbe49824404fbc346a4084f4c5e2-64dbcbe50f0ec38c061c194ba2e40298-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 28
+https://v-mps.crazymaplestudios.com/vod-112094/002f4917c5e971f19c1ee6e7d77b0102/b67dd2d7baa6413c93b029207b9117aa-f99a9d2922fa64f9576bfa77e4143e27-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 29
+https://v-mps.crazymaplestudios.com/vod-112094/f084ae1bc5e971f18c1ce6f6c55a0102/408597b19672463bbb4dc92da53c6deb-3346c53ffa99117b8105a6b755b29967-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 30
+https://v-mps.crazymaplestudios.com/vod-112094/00d78c1cc5e971f1b366e6f7e47a0102/67dc46f8a8714e488c743b4802bd8aa7-2bb2f8e6efed0ca7b5fc7b31d19845d1-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 31
+https://v-mps.crazymaplestudios.com/vod-112094/f049c715c5e971f1b366e6f7e47a0102/a394f6946e0e46bb92c0b949f97c3fe6-cd563511c8cf5831c2616e3c0aa3e6de-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 32
+https://v-mps.crazymaplestudios.com/vod-112094/e0fbac10c5e971f1b366e6f7e47a0102/26b5ec4039c44bf99ae84a63311023ea-ed54079f16a7bea4c9e6f57bfa0ddb89-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 33
+https://v-mps.crazymaplestudios.com/vod-112094/10b7d10fc5e971f184c9e7e7c7690102/f7280d0e28b244388354ff7e186dc823-212ce117e2139d5c99db4f43abc6a27c-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 34
+https://v-mps.crazymaplestudios.com/vod-112094/40350f10c5e971f19a70f7e7c57a0102/bcfde3e62bb04462a404a43a5a6331ec-f007a0f4244996f6af81d538d0d0ba97-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 35
+https://v-mps.crazymaplestudios.com/vod-112094/e053801cc5e971f184a8f6f6d65a0102/8391a361c2e54b179a10a85b378730de-4344c3620bae147d9f7fa60a0eba4052-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 36
+https://v-mps.crazymaplestudios.com/vod-112094/e011af16c5e971f19c1ee6e7d77b0102/0b5f1fe5a2a746ccadbeed74402ddc8d-6398a602dbf5bb2a4de42433dfc4dc63-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 37
+https://v-mps.crazymaplestudios.com/vod-112094/f0c7ac16c5e971f184a8f6f6d65a0102/47002ed847a84c9586a09ffb8148407d-d79e6f06c6cb75a608571c41985de440-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 38
+https://v-mps.crazymaplestudios.com/vod-112094/708fab16c5e971f184a8f6f6d65a0102/7598d3f210884b628fadc89fe56fc0b4-e9d77b3c0414a9e64d3b035e581b8640-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 39
+https://v-mps.crazymaplestudios.com/vod-112094/6086a616c5e971f19c1ee6e7d77b0102/4238baace50e44e1a412aeb340109775-1cb5cab8dbffcbb67b89a91740c48c1c-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 40
+https://v-mps.crazymaplestudios.com/vod-112094/c0ffa416c5e971f1b4e2e7e7f57a0102/9be44df027a44c328d3c477d3827ff3d-5c55d25e7fb0bc3bbfb457ae0a0ba44c-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 41
+https://v-mps.crazymaplestudios.com/vod-112094/504ce80fc5e971f18622f7e6c5580102/50f13ded565246c6bd7ea961402c347c-7f96b4ac07cf5f213ecac10db1c09603-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 42
+https://v-mps.crazymaplestudios.com/vod-112094/f0b3df15c5e971f19f27e6e7c64b0102/4f6412b4ec23462a81f8e095f7968c6f-97318b383eeb6b6e0e315b7a95a11bf2-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 43
+https://v-mps.crazymaplestudios.com/vod-112094/e05dae1bc5e971f19a70f7e7c57a0102/34c5322f1b4c477b8e207914922c6df8-91bf23ddc922c681f9204ab3082797e6-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 44
+https://v-mps.crazymaplestudios.com/vod-112094/50b19e1cc5e971f19f27e6e7c64b0102/75328b12c3b04949965f983f8b03c82d-ea18d6f620d576e4053c65b0704fc4e2-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 45
+https://v-mps.crazymaplestudios.com/vod-112094/e091ab21c5e971f184cae7e7c7690102/ad5f41658bba40d39f60de762e44effb-2a43599ccc503715eac63ce1cccfbbdc-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 46
+https://v-mps.crazymaplestudios.com/vod-112094/8013e115c5e971f184c9e7e7c7690102/63c317ed225741ccb6d9adf3490c51da-fc07b9d9df1adf0ca6c56e560bde16b2-ld.m3u8
+#EXTINF:-1 tvg-logo="https://narto-drama.com/assets/poster/952478.jpg" group-title="Menjelajah Dunia Tanpa Batas", Episode 47
+https://v-mps.crazymaplestudios.com/vod-112094/604ab016c5e971f184c9e7e7c7690102/b9cd227613784933ae8d935e563e75bc-b810961711f78e66c7c4abfbf5868b62-ld.m3u8
 ///Gunungkidul
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://beetv.my.id/logo/cctv.png" group-title="🔭 CCTV", Pantai Baron
 https://stream.gunungkidulkab.go.id:8888/630843dd-4488-4360-8f86-b23f3e67980d/index.m3u8
@@ -36260,19 +36354,9 @@ EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" tvg-name="Bioskop Indonesia" tvg-logo=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/QU5UVg/manifest.mpd?signature=Y2E0ZDU3ZmYyMzY3ZDdmNWIwMTAyZDViNDdiMjg3OGQ=&time=15270364667&device_id=zoC6ntdYeIZ0B8QiwUuSbD2cSQFlPKw123sHK7wzvEjBMV49uQ
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=OTdhZGIwMGJkN2IzZTNmNmM5YWQwMzI5ZGU3ODcxZTA=&time=15270365434&device_id=NgJiMel3_wIBwFuHhO_aIecy6oddin_HeNwUUwhS0osEXWG1mQ
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
@@ -36282,16 +36366,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=15&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/QlRWIENoYW5uZWw/manifest.mpd?signature=MjhlZTY2ZDllMjU3OTJjMzM0ZTMyOGIwNjRjMTg3MTI=&time=15270365467&device_id=jwKOcMi_u2DYib474kZeT2WWAxbYvwLLNDr2Rn7G79mel4Ql6A
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnbcindonesia.png",CNBC Indonesia
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MjkwMTI3MzU3MjlmZThmOWQ0YjZkYmQ2ODA2MzNlNTk=&time=15270365521&device_id=Sp9Tp77G-YIB9tffnDByu1HrPW4Rw1AL5JkraarJbSO11Nr7AA
+https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MjkwMTI3MzU3MjlmZThmOWQ0YjZkYmQ2ODA2MzNlNTk=&time=77777777777&device_id=Vg06y-QSfNsYH9lP_m0pzkjriMYYa2AclPsSe6Yd8vDi3JJOreo2
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -36299,18 +36378,13 @@ https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05OaS1teQ/manifest.mpd?signature=ZmU2MDliZjhlMGQ0N2IyZDJhN2U3YzQ1ZDVmMzU3ODE=&time=15270365554&device_id=HycPLvExAGctAKQYtyQjzikXhwE730nOUPOgpaL6gwia7QuvSA
+https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05OaS1teQ/manifest.mpd?signature=ZmU2MDliZjhlMGQ0N2IyZDJhN2U3YzQ1ZDVmMzU3ODE=&time=77777777777&device_id=57agBrrFOMq6RtXU0PVNMlEMeJjez_X4sDoAeehK3FjSxuN_ZDnm
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-#EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=MmQyZjhiNmI0M2MzNzk0Y2IyMDAyMTgzY2ExYTQxNzI=&time=15270365604&device_id=0Coywblwy1Cl3lvTO8BSJQIPpwh_ufeCdWBUfdZyYCGAQrpqGQ
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png",GTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36329,22 +36403,12 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/SW5kb3NpYXI/manifest.mpd?signature=YjFlY2E0MTg0Zjg1ZjBiM2IwZDIyNDhjZDViMDQwNjk=&time=15270365635&device_id=SnyKlMqfS0uVvKa1GchmsXxItlxYNPSDB_xWqK81odKQei_jSg
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
-#EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/S29tcGFzIFRW/manifest.mpd?signature=YWE3ZDQ4YTA5YzQzMzY4YmJiMGQwNDZmMjkxNjYzMDI=&time=15270365700&device_id=-i8ZwroFUVyPbUHLfpIAmRAKM3B0bwuV8-k-B5sHPW1uzEO_Pg
 #EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36360,11 +36424,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=23&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TURUVg/manifest.mpd?signature=MmZiOTY0NGUzZThjZjBhN2E1ODMyNmJhZTk0MzUwYTI=&time=15270365732&device_id=ZoMYYpvNhEF2WP0bqEm85CloToGshSTj1CUhpS0XBaKGD6A6NA
 #EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
@@ -36374,22 +36433,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=14&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-#EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TWV0cm9UVg/manifest.mpd?signature=NjYxYWQxZjc0NGQ2NDcxMjJiY2MwMWQ0Y2NmNDk5ZmQ=&time=15270365763&device_id=InMtT0yUYP3r8RFzP9IIswD78a_pS1mUP4mXduOyLlPA_9aaTA
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TU5DVFY/manifest.mpd?signature=NThjNDM5MzYwNGMxMDc4MGMyYjczYWJjNWNkODM4YTI=&time=15270366012&device_id=i446LfUbM_eNgIdPgRdb4KCAb3F-FC50WPA63UfK1TS8mjA_PA
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png",MNCTV World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36414,11 +36463,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NGEwY2ZkN2I2YjQ4NDg5ODE2NTU4YmQ0YTFjNmFhMTg=&time=15270366041&device_id=_Cu3jR3bcWfQrcKHYX485Cet4XBIIOvOFaAbjp5A7z4wWMJTEQ
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png",RCTI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36434,22 +36478,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=11&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/cnR2IENobmw/manifest.mpd?signature=YjEzNDdhMjQ2MjYwZGY4NWZkYWFmODZkMGQ3NjNlMGM=&time=15270366073&device_id=4JUXolOI73bF8dqVrSyG3LbO6s1sjAyJFiAyOmxM-87Vs-lwuQ
 #EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/U0NUVi1teQ/manifest.mpd?signature=MWZmZGUzMWIyNGU2OTNlYzFmNTM4ZjZhZTliZTk3ZWE=&time=15270366124&device_id=lj0Q2vLSZkx-YuO1BLAH5AlWqHlnk1_iphm4kV0AQ9yYho9yQg
 #EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36493,19 +36527,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=12&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZPTkU/manifest.mpd?signature=Nzc1YTAwMmI4YjVmZGRlMDk0OGI1ODI5YjE0MGYyN2M=&time=15270366236&device_id=qafzXAqiCTO-WK88hEEHwt8JXvjKUvFYo45WN9NzfZ7Jp-gPeQ
 #EXTINF:-1 tvg-id="TVRI.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
-#EXTINF:-1 tvg-id="TVRI.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZSSQ/manifest.mpd?signature=Yzc3ZjkwZGZjYjljNjEzN2NmMjJlYjcyOWJkMTRjYTE=&time=15270366274&device_id=am8LC1EC8SV3QwLnfVVM20cdYHfscGEYXpkVSbAmsuGFIkmD_w
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id@SD" group-title="Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/BandungTV.png",Bandung TV
@@ -36885,11 +36909,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=63&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-#EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bioskopindonesia.png",Bioskop Indonesia
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=N2Y1OGU1YzBmYzhlMTA5MjU4NDA4MmExZmRjODZmYzg=&time=15270366630&device_id=u9JQC0HPTt-HfInNQcBph-CR7s9jUc5ykpQyN6HSq_jFiJQW9w
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36902,11 +36921,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NjUwZTgyNTYzMzc2Mzk1MTUwMjcyN2Y0MDliNWVjYmQ=&time=15270366707&device_id=dNp_NySqucAdWgbNmtUMJw2wwxge926vqA6WU4rRGwXeCYmNnA
 #EXTINF:-1 tvg-id="Galaxy.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_galaxy.png",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -36931,11 +36945,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg",Movies News
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=ODBmMDU2MGU1ZmQ0MmRiMWI1ZDk0YTAxODI1NzZlZDU=&time=15270366752&device_id=Dujdzb4dtwB6iWZX7HsaV4vpSTqxaahHw08cEVA1WArkVhU8dA
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
@@ -36951,11 +36960,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VGhyaWxs/manifest.mpd?signature=NGU5NGY4ZjlhOWE2YWI3MTUxMmYwN2Q0OGQyMTJlOGI=&time=15270367006&device_id=bxp2YiVErs2-MbxBK1y9si7s00vayr1cGcaDj2TCxNgd7cZEbg
 #EXTINF:-1 group-title="Movies" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg",WeDoTv Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
@@ -37624,13 +37628,23 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99951411/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/300x300.webp?type=color_onBlack" group-title="XUMO",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_[PLATFORM]_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=[IFA_TYPE]
 # === RCTI+ SECTION ===
-# Updated: 2026-11-02 17:45:52
+# Updated: 2026-11-03 11:35:18
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793652351-fbd91a7947e445c3ada3c6279ba1950d-0-34fdba5134597adb2ffc53bafad0bbc4
+https://proxy-b.rctiplus.id/live/web/rcti/index.m3u8?auth_key=1793716517-0125bba3a0e5767575c9fa44c6d7dcb4-0-accc134a51a9d454abc36dc8d6aa1c8a
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793652351-248281de93733e76ae03b5bcacc337b1-0-ba207220a7cf2f5c9f507ab9d4332350
+https://proxy-b.rctiplus.id/live/web/mnctv/index.m3u8?auth_key=1793716518-032a6a343893bb62966828493c20a21b-0-28df72758d387da9b12c464904de96bb
+#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-b.rctiplus.id/live/web/gtv/index.m3u8?auth_key=1793716518-fb8d6cccfc828a6c05c2e420ecd83794-0-edc947c77bff38b4e73d4218bc7b0d65
+#EXTINF:-1 tvg-id="iNews" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-b.rctiplus.id/live/web/inews/index.m3u8?auth_key=1793716518-ff3f6e7419092b5d18871163d45b8205-0-574a4957da60de47bdbc09af5a30d29f
 # === END RCTI+ SECTION ===
+#EXTINF:-1 group-title="INFO" tvg-logo="https://mastertv.tech/War.gif", Gagal Aktivasi: PM admin untuk mendapatkan kode aktivasi baru.
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8

@@ -2,30 +2,22 @@
 #EXTINF:-1 tvg-name="IMC.id" tvg-logo="https://beetv.my.id/logo/jitv.png" group-title="📺 Nasional",JITV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240610 (Linux;Android 10) ExoPlayerLib/2.18.1
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver2.png" group-title="📺 Nasional",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://teagan.mvksstick9uq6cprotection.cfd
-#EXTVLCOPT:http-referrer=https://teagan.mvksstick9uq6cprotection.cfd/
-https://beetv.my.id/rbtv/indosiar.m3u
-#EXTINF:-1 tvg-name="MOJI.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="📺 Nasional",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://may.2f17ubowlsjn46easier.cfd
-#EXTVLCOPT:http-referrer=https://may.2f17ubowlsjn46easier.cfd/
-https://beeg.iclik.workers.dev/?id=0316425447650896
-#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="📺 Nasional",GTV
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/jabingan/rcti.m3u8?id=3
+https://beetv.my.id/jabingan/rcti.m3u8?id=1
 #EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="📺 Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/jabingan/rcti.m3u8?id=2
+#EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="📺 Nasional",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/jabingan/rcti.m3u8?id=4
 #EXTINF:-1 tvg-name="OKTV.id" tvg-logo="https://beetv.my.id/logo/vtv.png" group-title="📺 Nasional", Oxygentv
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:-1 tvg-name="IDX.id" tvg-logo="https://beetv.my.id/logo/magna.png" group-title="📺 Nasional",Magna TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="kompastv" tvg-logo="https://images.indihometv.com/logo_kompastv_big.png" group-title="📺 Nasional",Kompas TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -42,14 +34,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8?app_type=web&amp;userid=wn
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 tvg-name="JAKTV.id" tvg-logo="https://beetv.my.id/logo/jaktv.png" group-title="📺 Nasional",JAKTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1 tvg-name="MDTV.id" tvg-logo="https://images.indihometv.com/logo_net_big1.png" group-title="📺 Nasional",MDTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
+#EXTINF:-1 tvg-name="JAKTV.id" tvg-logo="https://beetv.my.id/logo/jaktv.png" group-title="📺 Nasional",JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/s/s123/S4/mnf.m3u8
 #EXTINF:-1 tvg-name="TVRI.id" tvg-logo="https://images.indihometv.com/logo_tvri_big.png" group-title="📺 Nasional",TVRI
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -58,11 +50,16 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s11/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8
-#EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="📺 Nasional",iNews
+#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="📺 Nasional",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/jabingan/rcti.m3u8?id=4
-#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/jabingan/rcti.m3u8?id=1
+https://beetv.my.id/jabingan/rcti.m3u8?id=3
+#EXTINF:-1 tvg-name="MOJI.id" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="📺 Nasional",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://nadia79bc.mp77g69ainei3gx2voxygen.ru
+#EXTVLCOPT:http-referrer=https://nadia79bc.mp77g69ainei3gx2voxygen.ru/
+https://beetv.my.id/rbtv/moji.m3u
+#EXTINF:-1 tvg-name="ANTV.id" tvg-logo="https://images.indihometv.com/logo_antvnew_big.png" group-title="📺 Nasional",ANTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://beetv.my.id/jabingan/vd.m3u8?ch=antv

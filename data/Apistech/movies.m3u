@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bioskopindonesia.png",Bioskop Indonesia
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=N2Y1OGU1YzBmYzhlMTA5MjU4NDA4MmExZmRjODZmYzg=&time=15270366630&device_id=u9JQC0HPTt-HfInNQcBph-CR7s9jUc5ykpQyN6HSq_jFiJQW9w
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -9,8 +7,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png",Celestial Movies
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=NjUwZTgyNTYzMzc2Mzk1MTUwMjcyN2Y0MDliNWVjYmQ=&time=15270366707&device_id=dNp_NySqucAdWgbNmtUMJw2wwxge926vqA6WU4rRGwXeCYmNnA
 #EXTINF:-1 tvg-id="Galaxy.id@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_galaxy.png",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -27,8 +23,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8c6fb1a8-44f6-4d20-9093-fb4bb93bc5cd.jpg",Movies News
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=ODBmMDU2MGU1ZmQ0MmRiMWI1ZDk0YTAxODI1NzZlZDU=&time=15270366752&device_id=Dujdzb4dtwB6iWZX7HsaV4vpSTqxaahHw08cEVA1WArkVhU8dA
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
@@ -40,8 +34,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-https://cdnjktcyber05.transvision.co.id/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VGhyaWxs/manifest.mpd?signature=NGU5NGY4ZjlhOWE2YWI3MTUxMmYwN2Q0OGQyMTJlOGI=&time=15270367006&device_id=bxp2YiVErs2-MbxBK1y9si7s00vayr1cGcaDj2TCxNgd7cZEbg
 #EXTINF:-1 group-title="Movies" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg",WeDoTv Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
