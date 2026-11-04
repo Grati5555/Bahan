@@ -3,11 +3,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/fightsports/index.m3u8
-#EXTINF:-1 tvg-id="Sportstars.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars
+#EXTINF:-1 tvg-id="Sportstars.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/774/576774-SQUARE-l.jpg",Sportstars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/ss1/index.m3u8
-#EXTINF:-1 tvg-id="Sportstars2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstars 2
+#EXTINF:-1 tvg-id="Sportstars2.id@SD" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/775/576775-SQUARE-l.jpg",Sportstars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/ss2/index.m3u8

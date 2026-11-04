@@ -14,7 +14,7 @@ https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/bloomberg/index.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-m.png",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/860/576860-SQUARE-l.jpg",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/cgtn/index.m3u8
@@ -37,7 +37,7 @@ https://proxy-v.rctiplus.id/live/web/dwtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/euronews/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png",FOX News
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/721/627721-SQUARE-l.jpg",FOX News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/foxnews/index.m3u8
@@ -59,11 +59,11 @@ https://proxy-v.rctiplus.id/live/web/nhkworldprem/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru@SD" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
+https://proxy-v.rctiplus.id/live/ios/rteng/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/logo_trtworld_small.png",TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
+https://proxy-v.rctiplus.id/live/ios/trtw/index.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" group-title="News" tvg-logo="https://pic.dens.tv/tv_183x174/1615521253_square.jpg",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h307/stream.m3u8

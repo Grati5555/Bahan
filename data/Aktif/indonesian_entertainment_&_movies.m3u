@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="IMC.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+#EXTINF:-1 tvg-id="CelebritiesTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Indonesian Entertainment & Movies",CelebritiesTV (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 #EXTINF:-1 tvg-id="Entertainment.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Indonesian Entertainment & Movies",Entertainment (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
@@ -9,9 +12,6 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-#EXTINF:-1 tvg-id="CelebritiesTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Indonesian Entertainment & Movies",CelebritiesTV (Vision+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 #EXTINF:-1 tvg-id="Hanacaraka TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesian Entertainment & Movies",Hanacaraka TV (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd

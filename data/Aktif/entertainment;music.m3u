@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Entertainment;Music",BEATTV (1080p)
 https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 tvg-id="GOTV.py@SD" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="Entertainment;Music",GO TV (720p)
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Entertainment;Music",Gex TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Entertainment;Music",Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ZorTV.uz@SD" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="Entertainment;Music",Zo'r TV (576p)

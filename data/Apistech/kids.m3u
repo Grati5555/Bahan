@@ -11,7 +11,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV
+#EXTINF:-1 tvg-id="KidsTV.id@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/868/576868-SQUARE-l.jpg",Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
@@ -31,7 +31,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",Zoo Moo
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/871/576871-SQUARE-l.jpg",Zoo Moo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
