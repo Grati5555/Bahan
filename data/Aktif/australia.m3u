@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-logo="example.png" group-title="Australia",22. ABC Kids (4.00am-7.30pm AEST)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-news" tvg-logo="example.png" group-title="Australia",24. ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-me" tvg-logo="example.png" group-title="Australia",23. ABC Entertains
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1cb2fc80532861c/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-qld" tvg-logo="example.png" group-title="Australia",2. ABC TV (QLD)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/917a468746ad4cabb51d53924b5da23a/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-act" tvg-logo="example.png" group-title="Australia",2. ABC TV (ACT)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-vic" tvg-logo="example.png" group-title="Australia",2. ABC TV (VIC)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1b68b3eaa49b4d939a926bceab9d376a/index.mpd
 #EXTINF:-1 tvg-id="mjh-abc-sa" tvg-logo="example.png" group-title="Australia",2. ABC TV (SA)
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/40b3a06bd98a4c3b881ea030ca075b96/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-tas" tvg-logo="example.png" group-title="Australia",2. ABC TV (TAS)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/a8373041e74347f2a995eb7ed429d3c6/index.mpd
 #EXTINF:-1 tvg-id="mjh-abc-nt" tvg-logo="example.png" group-title="Australia",2. ABC TV (NT)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/49ebe5cc7d7a46ba815b03bcf5096320/index.mpd
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-logo="example.png" group-title="Australia",22. ABC Family (7.30pm-4.00am AEST)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0dc673d3a34af11/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-qld" tvg-logo="example.png" group-title="Australia",2. ABC TV (QLD)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/917a468746ad4cabb51d53924b5da23a/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-logo="example.png" group-title="Australia",23. ABC Entertains
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4e08e6a57a334d0bb1cb2fc80532861c/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-news" tvg-logo="example.png" group-title="Australia",24. ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1 tvg-id="mjh-abc-wa" tvg-logo="example.png" group-title="Australia",2. ABC TV (WA)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/7776b422c7794bc7a6cd51849857b132/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-vic" tvg-logo="example.png" group-title="Australia",2. ABC TV (VIC)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1b68b3eaa49b4d939a926bceab9d376a/index.mpd
-#EXTINF:-1 tvg-id="mjh-abc-tas" tvg-logo="example.png" group-title="Australia",2. ABC TV (TAS)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/a8373041e74347f2a995eb7ed429d3c6/index.mpd
 #EXTINF:-1 tvg-id="mjh-abc-nsw" tvg-logo="example.png" group-title="Australia",2. ABC TV
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
+#EXTINF:-1 tvg-id="mjh-abc-act" tvg-logo="example.png" group-title="Australia",2. ABC TV (ACT)
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
